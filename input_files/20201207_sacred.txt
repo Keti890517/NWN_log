@@ -1,0 +1,710 @@
+nwsync: reconfigured successfully
+Error: 40964
+Error: 40964
+Error: 40964
+Game is using local port: 51980
+Your cryptographic public identity is: hMSv7OTPYXtB3jsgpcNZox2wZVWCNZltenzjuNpekws=
+GOG: Authentication failed: 1
+Requesting relay access to connect to 168.61.183.9:5121
+Connection to 168.61.183.9:5121 switching relayed mode: 0->1
+*** ValidateGFFResource sent by user.
+*** ValidateGFFResource sent by user.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:24] MoonRunner333 has joined as a player..
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] Welcome to the World of Termes Morrico!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] Public CDKEY: QRMELRGQ
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] Public IP Address: 94.21.195.69
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] Module Running Time: 13952 round(s).
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] 1) Please read the the Narcian Ruleset book found in the Pool of Knowledge. If you are a mage then you should also read the Narcian Spells and Magical Arts book which is found in the Pool of Knowledge.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] 2) This Cloud server will reboot at midnight Pacific time for maintenance (12AM PST) You can contact the DM Team at dmsofbob@yahoo.com
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] Someone damages Morrico: 89 (89 Magical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] Saved Hitpoints: 263.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:27] [Server] You are now in a No PVP area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:30] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:30] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 20%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:36] Resting.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:42:37] You are entering a deep sleep.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:03] Done resting.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:03] Current Deity: Hanuman
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:03] Saving progress...
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:05] Lost Item: Protection from Spells
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:07] Meditating...
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:16] Morrico uses Freedom of Movement
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:16] Use Magic Device skill: 28 + 9 vs DC 30
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:16] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:19] Your meditation session has brought you inspiration!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:22] Morrico uses Death Ward
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:22] Use Magic Device skill: 28 + 15 vs DC 30
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:22] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:32] Morrico uses Owl's Wisdom
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:32] Use Magic Device skill: 28 + 11 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:32] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:33] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:38] Morrico uses Eagle's Splendor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:38] Use Magic Device skill: 31 + 17 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:38] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:44] Area CR: 1
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:44] [Server] You are now in a No PVP area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:46] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:46] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:51] Morrico uses Ghostly Visage
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:51] Use Magic Device skill: 28 + 1 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:51] *Magical Item Usage: Failure*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:51] Morrico : Immune to Paralysis.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:51] Morrico : Immune to Paralysis.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:57] Morrico uses Cat's Grace
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:57] Use Magic Device skill: 28 + 13 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:43:57] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:03] Morrico uses Bull's Strength
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:03] Use Magic Device skill: 28 + 6 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:03] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:09] Morrico uses Endurance
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:09] Use Magic Device skill: 28 + 4 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:09] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:15] Morrico uses Fox's Cunning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:15] Use Magic Device skill: 28 + 6 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:15] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:18] THE SUN IS RISING.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:19] Morrico uses item's special power.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:21] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:21] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:27] Morrico uses Ghostly Visage
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:27] Use Magic Device skill: 28 + 10 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:27] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:33] Morrico uses Fox's Cunning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:33] Use Magic Device skill: 28 + 10 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:33] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:39] Morrico uses Fox's Cunning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:39] Use Magic Device skill: 28 + 1 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:39] *Magical Item Usage: Failure*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:45] Morrico uses Fox's Cunning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:45] Use Magic Device skill: 28 + 12 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:45] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:51] Morrico uses One with the Land
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:51] Use Magic Device skill: 28 + 1 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:51] *Magical Item Usage: Failure*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:57] Morrico uses Amplify
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:57] Use Magic Device skill: 28 + 19 vs DC 27
+[CHAT WINDOW TEXT] [Mon Dec  7 08:44:57] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:03] Morrico uses Camouflage
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:03] Use Magic Device skill: 28 + 14 vs DC 27
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:03] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:09] Morrico uses One with the Land
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:09] Use Magic Device skill: 28 + 5 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:09] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:13] Morrico uses Wand of Invisibility
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:13] Use Magic Device skill: 28 + 7 vs DC 20
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:13] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:21] Morrico uses Haste
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:21] Use Magic Device skill: 28 + 6 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:21] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:27] Environmental Effect: 43 vs DC 30.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:36] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:36] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:55] Party Spot: 47, Enemy Spot: 28, Party Hide: 82, Enemy Hide: 11, Party Listen: 59, Enemy Listen: 34, Party Move Silently: 48, Enemy Move Silently: 10, Party Dexterity: 9, Enemy Dexterity: 15.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:55] (Party not spotted or heard by Enemy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:55] *** PARTY AUTO INITIATIVE ***
+[CHAT WINDOW TEXT] [Mon Dec  7 08:45:56] *** PARTY SURPRISE ATTACK ***
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:10] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:10] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:25] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:25] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:43] Party Spot: 51, Enemy Spot: 42, Party Hide: 67, Enemy Hide: 14, Party Listen: 59, Enemy Listen: 43, Party Move Silently: 42, Enemy Move Silently: 5, Party Dexterity: 6, Enemy Dexterity: 8.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:43] (Party not spotted but heard by Enemy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:43] *** ENEMY INITIATIVE ***
+[CHAT WINDOW TEXT] [Mon Dec  7 08:46:44] *** PARTY NOT SPOTTED BUT HEARD ***
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:01] Party Spot: 34, Enemy Spot: 68, Party Hide: 33, Enemy Hide: 20, Party Listen: 43, Enemy Listen: 76, Party Move Silently: 3, Enemy Move Silently: 27, Party Dexterity: 19, Enemy Dexterity: 12.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:01] (Enemy is more powerful then Party)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:01] *** PARTY INITIATIVE ***
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:02] *** PARTY IS OVERPOWERD ***
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:05] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:05] Weapon equipped as a two-handed weapon.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:05] Armor/Shield Applies: Skill Armor Check Penalty: 0 Arcane Spell Failure: 5%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:10] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:10] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:16] Morrico uses Keen Edge
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:16] Use Magic Device skill: 28 + 18 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:16] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:19] Morrico casting Bless
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:21] Morrico casts Bless
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:24] Morrico casting Bless Weapon
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:26] Morrico casts Bless Weapon
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:33] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:33] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:38] Morrico uses Aura of Glory
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:38] Use Magic Device skill: 28 + 4 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:38] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:39] Morrico : Healed 0 hit points.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:44] Morrico uses Haste
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:44] Use Magic Device skill: 30 + 13 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:44] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:50] Morrico uses Displacement
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:50] Use Magic Device skill: 30 + 2 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:50] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:56] Morrico uses Holy Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:56] Use Magic Device skill: 30 + 6 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:47:56] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:02] Morrico uses Mordenkainen's Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:02] Use Magic Device skill: 30 + 10 vs DC 32
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:02] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:02] Summoned a creature
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:11] Morrico uses Divine Favor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:17] Morrico: Taste true power!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:20] Morrico: Let's make this quick, shall we?
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:21] Mordenkainen's Sword attacks Sacred : *hit* : (20 + 8 = 28 : Threat Roll: 3 + 8 = 11)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:22] Mordenkainen's Sword damages Sacred: 4 (0 Physical 4 Magical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:22] Sacred: *Turns Hostile To Everyone!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:24] Morrico : Initiative Roll : 10 : (5 + 5 = 10)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:25] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (13 + 54 = 67)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:25] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (8 + 49 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:25] Morrico damages Sacred: 97 (95 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:25] Attack Of Opportunity : Sacred attacks Mordenkainen's Sword : *hit* : (11 + 52 = 63)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:25] Morrico damages Sacred: 74 (73 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:26] Sacred attempts Improved Disarm on Mordenkainen's Sword : *failed* : (19 + 43 = 62)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:27] Sneak Attack : Morrico attacks Sacred : *hit* : (5 + 49 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:27] Mordenkainen's Sword attacks Sacred : *miss* : (2 + 8 = 10)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:27] Sneak Attack : Morrico attacks Sacred : *miss* : (2 + 44 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:27] Morrico damages Sacred: 88 (87 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:28] Sacred attacks Mordenkainen's Sword : *hit* : (20 + 40 = 60 : Threat Roll: 8 + 40 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:28] Sacred attacks Mordenkainen's Sword : *hit* : (6 + 35 = 41)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:29] Sneak Attack : Morrico attacks Sacred : *hit* : (10 + 59 = 69)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:29] Morrico damages Sacred: 97 (95 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:30] Sacred attacks Mordenkainen's Sword : *hit* : (11 + 29 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:31] Power Attack : Sneak Attack : Morrico attempts Ki Damage on Sacred : *hit* : (11 + 54 = 65)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:31] Power Attack : Sneak Attack : Morrico attempts Ki Damage on Sacred : *miss* : (1 + 49 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:31] Morrico damages Sacred: 97 (91 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:32] Sacred casting unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:32] Mordenkainen's Sword attacks Sacred : *miss* : (9 + 8 = 17)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:33] Morrico attacks Sacred : *miss* : (2 + 47 = 49)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:33] Morrico attacks Sacred : *miss* : (1 + 42 = 43)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:34] Sacred casts unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:34] Morrico : Evasion : Reflex Save vs. Fire : *success* : (3 + 28 = 31 vs. DC: 23)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:35] Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 57 = 73 : Threat Roll: 5 + 57 = 62)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:35] Morrico damages Sacred: 200 (182 Physical 18 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:35] Sacred damages Mordenkainen's Sword: 82 (82 Fire)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:37] Power Attack : Morrico attempts Ki Damage on Sacred : *hit* : (5 + 52 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:37] Power Attack : Morrico attempts Ki Damage on Sacred : *critical hit* : (19 + 47 = 66 : Threat Roll: 13 + 47 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:37] Morrico damages Sacred: 48 (45 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:37] Morrico damages Sacred: 191 (173 Physical 18 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:43] Morrico uses Mordenkainen's Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:43] Use Magic Device skill: 30 + 2 vs DC 32
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:43] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:43] Summoned a creature
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:48] Morrico: This way!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:49] Sacred attacks Mordenkainen's Sword : *hit* : (15 + 49 = 64)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:50] Morrico: Let's make this quick, shall we?
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:50] Sacred attacks Mordenkainen's Sword : *hit* : (7 + 44 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:52] Sacred attacks Mordenkainen's Sword : *hit* : (5 + 39 = 44)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:52] Mordenkainen's Sword attacks Sacred : *miss* : (1 + 8 = 9)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:52] Morrico : Initiative Roll : 24 : (19 + 5 = 24)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:53] Sacred attacks Mordenkainen's Sword : *hit* : (4 + 38 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:54] Power Attack : Sneak Attack : Morrico attacks Sacred : *miss* : (1 + 54 = 55)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:54] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (5 + 49 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:54] Morrico damages Sacred: 86 (81 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:55] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (3 + 47 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:55] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (10 + 42 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:56] *Knockdown!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:58] Mordenkainen's Sword attacks Sacred : *miss* : (7 + 8 = 15)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:48:59] Sacred attempts Improved Disarm on Mordenkainen's Sword : *failed* : (4 + 48 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:00] Sacred attacks Mordenkainen's Sword : *hit* : (6 + 47 = 53)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:02] Sacred attacks Mordenkainen's Sword : *hit* : (19 + 42 = 61)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:02] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (14 + 54 = 68)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:02] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (4 + 49 = 53)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:02] Morrico damages Sacred: 90 (89 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:02] Morrico damages Sacred: 97 (94 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:03] Sacred attacks Mordenkainen's Sword : *hit* : (10 + 35 = 45)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:04] Sneak Attack : Morrico attacks Sacred : *hit* : (12 + 49 = 61)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:04] Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 44 = 60 : Threat Roll: 16 + 44 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:04] Morrico damages Sacred: 233 (214 Physical 19 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:04] Morrico damages Sacred: 96 (95 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:05] Sacred attempts Improved Disarm on Mordenkainen's Sword : *failed* : (12 + 44 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:05] Sacred attacks Mordenkainen's Sword : *hit* : (10 + 43 = 53)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:06] Morrico attacks Sacred : *hit* : (11 + 57 = 68)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:06] Morrico damages Sacred: 41 (40 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:07] Sacred attacks Mordenkainen's Sword : *hit* : (19 + 38 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:08] Power Attack : Morrico attempts Ki Damage on Sacred : *hit* : (10 + 52 = 62)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:08] Power Attack : Morrico attempts Ki Damage on Sacred : *miss* : (4 + 47 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:08] Morrico damages Sacred: 50 (45 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:09] Mordenkainen's Sword attacks Sacred : *miss* : (18 + 8 = 26)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:10] Sacred attacks Mordenkainen's Sword : *hit* : (9 + 33 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:11] Sacred: *Summons Minions*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:12] Power Attack : Sneak Attack : Morrico attacks Sacred : *critical hit* : (18 + 51 = 69 : Threat Roll: 20 + 51 = 71)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:12] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (13 + 46 = 59)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:12] Morrico damages Sacred: 223 (205 Physical 18 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:13] Morrico damages Sacred: 93 (91 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:14] Mordenkainen's Sword attacks Sacred : *miss* : (15 + 8 = 23)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:15] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (12 + 36 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:15] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (6 + 31 = 37)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:15] Red Half Dragon Rogue attempts Improved Knockdown on Mordenkainen's Sword : *hit* : (12 + 39 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:17] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (14 + 26 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:17] Red Half Dragon Rogue attacks Mordenkainen's Sword : *hit* : (7 + 38 = 45)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:17] Sneak Attack : Morrico attacks Red Half Dragon Rogue : *hit* : (5 + 56 = 61)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:17] Sneak Attack : Morrico attacks Red Half Dragon Rogue : *hit* : (12 + 51 = 63)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:18] Morrico damages Red Half Dragon Rogue: 88 (85 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:18] Morrico damages Red Half Dragon Rogue: 81 (75 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:19] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (14 + 21 = 35)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:19] Red Half Dragon Rogue attacks Mordenkainen's Sword : *hit* : (15 + 31 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:19] Morrico attacks Red Half Dragon Rogue : *critical hit* : (20 + 46 = 66 : Threat Roll: 16 + 46 = 62)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:19] Morrico attacks Red Half Dragon Rogue : *hit* : (6 + 41 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:20] Morrico damages Red Half Dragon Rogue: 36 (31 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:20] Morrico damages Red Half Dragon Rogue: 158 (139 Physical 19 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:20] Mordenkainen's Sword attacks Sacred : *miss* : (2 + 8 = 10)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:21] Red Half Dragon Rogue attempts Knockdown on Mordenkainen's Sword : *hit* : (14 + 37 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:22] Power Attack : Sacred attacks Mordenkainen's Sword : *miss* : (1 + 41 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:22] Morrico attacks Red Half Dragon Rogue : *miss* : (1 + 56 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:22] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (10 + 36 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:23] Red Half Dragon Rogue attacks Mordenkainen's Sword : *hit* : (10 + 36 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:23] Morrico attacks Red Half Dragon Rogue : *miss* : (1 + 56 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:23] Morrico attacks Red Half Dragon Rogue : *critical hit* : (19 + 51 = 70 : Threat Roll: 17 + 51 = 68)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:24] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 31 = 35)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:24] Morrico damages Red Half Dragon Rogue: 145 (130 Physical 15 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:24] Morrico killed Red Half Dragon Rogue
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:24] Experience Points Gained:  52
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:25] Mordenkainen's Sword attacks Sacred : *miss* : (5 + 8 = 13)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:26] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 26 = 30)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:28] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 36 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:28] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (12 + 31 = 43)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:30] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (14 + 26 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:30] Morrico uses Divine Favor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:31] Mordenkainen's Sword attacks Sacred : *miss* : (3 + 8 = 11)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:33] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (15 + 21 = 36)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:34] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (11 + 54 = 65)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:34] Power Attack : Sneak Attack : Morrico attacks Sacred : *miss* : (3 + 49 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:34] Morrico damages Sacred: 91 (90 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:34] Sacred attempts Improved Disarm on Mordenkainen's Sword : *miss* : (1 + 41 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:34] Sacred attacks Mordenkainen's Sword : *hit* : (3 + 40 = 43)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:36] Morrico attacks Sacred : *hit* : (9 + 47 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:36] Morrico attacks Sacred : *critical hit* : (16 + 42 = 58 : Threat Roll: 15 + 42 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:36] Morrico damages Sacred: 39 (36 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:36] Morrico damages Sacred: 168 (149 Physical 19 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:37] Mordenkainen's Sword attacks Sacred : *miss* : (2 + 8 = 10)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:38] Morrico attacks Sacred : *hit* : (3 + 57 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:38] Sacred attacks Mordenkainen's Sword : *hit* : (17 + 35 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:38] Morrico damages Sacred: 44 (40 Physical 4 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:39] Sacred attacks Mordenkainen's Sword : *hit* : (20 + 30 = 50 : Threat Roll: 11 + 30 = 41)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:42] Sacred casts unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:42] Mordenkainen's Sword attacks Sacred : *miss* : (3 + 8 = 11)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:42] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (15 + 52 = 67)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:42] Power Attack : Sneak Attack : Morrico attacks Sacred : *miss* : (3 + 47 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:42] Morrico damages Sacred: 96 (93 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:43] Sacred damages Mordenkainen's Sword: 61 (61 Fire)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:44] Sneak Attack : Morrico attacks Sacred : *hit* : (8 + 47 = 55)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:45] Sneak Attack : Morrico attacks Sacred : *hit* : (11 + 42 = 53)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:45] Morrico damages Sacred: 86 (83 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:45] Morrico damages Sacred: 75 (74 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:47] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:47] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:47] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 20%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:51] Morrico uses Mordenkainen's Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:51] Use Magic Device skill: 30 + 5 vs DC 32
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:51] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:51] Summoned a creature
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:54] Sacred attempts Improved Disarm on Morrico : *hit* : (10 + 45 = 55)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:54] Morrico : Initiative Roll : 20 : (15 + 5 = 20)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:55] Sacred attacks Morrico : *hit* : (4 + 44 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:55] Sacred damages Morrico: 32 (32 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:55] Morrico : Damage Resistance absorbs 10 damage
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:55] Sacred damages Morrico: 33 (33 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:56] Mordenkainen's Sword attacks Sacred : *hit* : (20 + 8 = 28 : Threat Roll: 16 + 8 = 24)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:56] Mordenkainen's Sword damages Sacred: 14 (0 Physical 14 Magical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:49:57] Attack Of Opportunity : Mordenkainen's Sword attacks Sacred : *miss* : (9 + 8 = 17)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:01] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:01] Weapon equipped as a two-handed weapon.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:01] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:01] Armor/Shield Applies: Skill Armor Check Penalty: 0 Arcane Spell Failure: 5%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:01] Mordenkainen's Sword attacks Sacred : *miss* : (9 + 8 = 17)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:06] Morrico uses Divine Favor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:06] Mordenkainen's Sword attacks Sacred : *miss* : (8 + 8 = 16)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:11] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (2 + 52 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:11] Power Attack : Sneak Attack : Morrico attacks Sacred : *miss* : (4 + 47 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:11] Mordenkainen's Sword attacks Sacred : *miss* : (9 + 8 = 17)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:11] Morrico damages Sacred: 99 (93 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:14] Attack Of Opportunity : Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (3 + 42 = 45)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:14] Improved Power Attack : Sacred attempts Knockdown on Mordenkainen's Sword : *hit* : (14 + 33 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:16] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (15 + 32 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:16] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (9 + 54 = 63)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:16] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (11 + 49 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:16] Morrico damages Sacred: 101 (98 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:16] Morrico damages Sacred: 96 (92 Physical 4 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:17] Mordenkainen's Sword attacks Sacred : *miss* : (6 + 8 = 14)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:18] Sneak Attack : Morrico attacks Sacred : *miss* : (1 + 49 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:18] Sneak Attack : Morrico attacks Sacred : *hit* : (10 + 44 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:19] Morrico damages Sacred: 97 (94 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:19] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (12 + 24 = 36)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:20] Sacred: HP>6000
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:20] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (2 + 44 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:20] Sneak Attack : Morrico attacks Sacred : *hit* : (11 + 59 = 70)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:21] Power Attack : Sacred attacks Mordenkainen's Sword : *miss* : (1 + 39 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:21] Morrico damages Sacred: 91 (86 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:22] Power Attack : Sneak Attack : Morrico attempts Smite Evil on Sacred : *critical hit* : (19 + 57 = 76 : Threat Roll: 19 + 57 = 76)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:23] Power Attack : Sneak Attack : Morrico attacks Sacred : *critical hit* : (17 + 49 = 66 : Threat Roll: 7 + 49 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:23] Morrico damages Sacred: 261 (247 Physical 14 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:23] Morrico damages Sacred: 228 (219 Physical 9 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:23] Mordenkainen's Sword attacks Sacred : *miss* : (9 + 8 = 17)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:23] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (16 + 31 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:24] Sneak Attack : Morrico attacks Sacred : *hit* : (14 + 49 = 63)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:25] Sneak Attack : Morrico attacks Sacred : *hit* : (20 + 44 = 64 : Threat Roll: 2 + 44 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:25] Morrico damages Sacred: 81 (79 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:25] Morrico damages Sacred: 96 (93 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:25] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (19 + 24 = 43)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:26] Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 59 = 75 : Threat Roll: 17 + 59 = 76)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:27] Morrico damages Sacred: 195 (183 Physical 12 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:27] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (9 + 33 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:28] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (3 + 28 = 31)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:28] Power Attack : Sneak Attack : Morrico attempts Ki Damage on Sacred : *hit* : (10 + 54 = 64)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:28] Power Attack : Sneak Attack : Morrico attacks Sacred : *miss* : (2 + 49 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:29] Morrico damages Sacred: 96 (90 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:29] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (18 + 22 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:30] Sneak Attack : Morrico attacks Sacred : *hit* : (7 + 49 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:31] Sneak Attack : Morrico attacks Sacred : *miss* : (6 + 44 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:31] Morrico damages Sacred: 88 (85 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:32] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (17 + 16 = 33)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:32] Sneak Attack : Morrico attacks Sacred : *hit* : (12 + 59 = 71)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:33] Morrico damages Sacred: 87 (81 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:33] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 30 = 34)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:33] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (8 + 25 = 33)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:34] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (5 + 54 = 59)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:34] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (5 + 49 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:35] Morrico damages Sacred: 92 (89 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:35] Morrico damages Sacred: 91 (87 Physical 4 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:35] Mordenkainen's Sword attacks Sacred : *miss* : (18 + 8 = 26)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:36] Sneak Attack : Morrico attacks Sacred : *critical hit* : (18 + 49 = 67 : Threat Roll: 5 + 49 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:37] Sneak Attack : Morrico attacks Sacred : *miss* : (4 + 44 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:37] Morrico damages Sacred: 179 (171 Physical 8 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:37] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (6 + 18 = 24)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:38] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (2 + 13 = 15)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:38] Sneak Attack : Morrico attacks Sacred : *hit* : (5 + 59 = 64)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:39] Morrico damages Sacred: 91 (86 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:39] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (10 + 28 = 38)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:40] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (16 + 23 = 39)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:40] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (2 + 54 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:40] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (10 + 49 = 59)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:41] Morrico damages Sacred: 99 (94 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:41] Morrico damages Sacred: 82 (81 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:41] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (9 + 18 = 27)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:42] Sneak Attack : Morrico attacks Sacred : *miss* : (2 + 49 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:43] Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 44 = 60 : Threat Roll: 14 + 44 = 58)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:43] Morrico damages Sacred: 211 (198 Physical 13 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:44] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (6 + 13 = 19)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:44] Sneak Attack : Morrico attacks Sacred : *critical hit* : (17 + 59 = 76 : Threat Roll: 10 + 59 = 69)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:45] Morrico damages Sacred: 191 (178 Physical 13 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:45] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (5 + 33 = 38)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:46] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (19 + 28 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:46] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (4 + 54 = 58)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:46] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (11 + 49 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:47] Morrico damages Sacred: 92 (90 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:47] Morrico damages Sacred: 103 (101 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:47] Mordenkainen's Sword attacks Sacred : *miss* : (1 + 8 = 9)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:48] Sneak Attack : Morrico attacks Sacred : *critical hit* : (19 + 49 = 68 : Threat Roll: 17 + 49 = 66)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:48] Sneak Attack : Morrico attacks Sacred : *hit* : (20 + 44 = 64 : Threat Roll: 3 + 44 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:48] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 23 = 27)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:49] Morrico damages Sacred: 97 (91 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:49] Morrico damages Sacred: 229 (212 Physical 17 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:50] Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (10 + 18 = 28)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:50] Sneak Attack : Morrico attacks Sacred : *hit* : (7 + 59 = 66)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:51] Morrico damages Sacred: 88 (83 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:51] Sacred casting unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:52] Power Attack : Morrico attacks Sacred : *critical hit* : (20 + 52 = 72 : Threat Roll: 20 + 52 = 72)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:52] Power Attack : Morrico attacks Sacred : *hit* : (14 + 47 = 61)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:52] Mordenkainen's Sword attacks Sacred : *miss* : (1 + 8 = 9)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:53] Morrico damages Sacred: 50 (44 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:53] Morrico damages Sacred: 175 (159 Physical 16 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:53] Sacred casts unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:53] Morrico : Evasion : Reflex Save vs. Fire : *success* : (7 + 28 = 35 vs. DC: 23)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:54] Sacred damages Mordenkainen's Sword: 79 (79 Fire)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:54] Sneak Attack : Morrico attacks Sacred : *hit* : (5 + 47 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:55] Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 42 = 58 : Threat Roll: 17 + 42 = 59)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:55] Morrico damages Sacred: 85 (84 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:50:55] Morrico damages Sacred: 197 (176 Physical 21 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:01] Morrico uses Mordenkainen's Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:01] Use Magic Device skill: 30 + 19 vs DC 32
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:01] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:01] Summoned a creature
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:04] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:04] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 20%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:05] Mordenkainen's Sword attacks Sacred : *miss* : (17 + 8 = 25)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:06] Sacred damages Mordenkainen's Sword: 0 (0 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:06] *Thrust/Reach Attack!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:07] You cannot rest so soon after exerting yourself.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:07] Attack Of Opportunity : Mordenkainen's Sword attacks Sacred : *miss* : (5 + 8 = 13)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:07] Morrico uses Divine Favor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:10] Improved Power Attack : Sacred attempts Improved Knockdown on Mordenkainen's Sword : *hit* : (11 + 37 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:11] You cannot rest so soon after exerting yourself.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:11] Morrico: Let's make this quick, shall we?
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:11] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (11 + 36 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:12] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:12] Weapon equipped as a two-handed weapon.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:12] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:12] Armor/Shield Applies: Skill Armor Check Penalty: 0 Arcane Spell Failure: 5%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:13] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (19 + 31 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:14] Morrico : Initiative Roll : 11 : (6 + 5 = 11)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:14] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (3 + 54 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:14] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (7 + 49 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:14] Morrico damages Sacred: 84 (82 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:15] Morrico damages Sacred: 94 (90 Physical 4 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:15] Mordenkainen's Sword attacks Sacred : *miss* : (17 + 8 = 25)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:15] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (20 + 24 = 44 : Threat Roll: 19 + 24 = 43)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:16] Sneak Attack : Morrico attacks Sacred : *hit* : (9 + 49 = 58)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:16] Sneak Attack : Morrico attacks Sacred : *hit* : (9 + 44 = 53)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:16] Morrico damages Sacred: 100 (94 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:16] Morrico damages Sacred: 77 (75 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:16] Sacred: *Summons Minions*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:18] Sneak Attack : Morrico attacks Sacred : *critical hit* : (20 + 59 = 79 : Threat Roll: 1 + 59 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:19] Morrico damages Sacred: 207 (191 Physical 16 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:20] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 36 = 40)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:20] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (10 + 31 = 41)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:20] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (15 + 54 = 69)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:20] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (9 + 49 = 58)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:21] Morrico damages Sacred: 97 (96 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:21] Morrico damages Sacred: 92 (91 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:22] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (8 + 26 = 34)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:30] Sneak Attack : Morrico attacks Sacred : *hit* : (8 + 57 = 65)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:31] Sneak Attack : Morrico attacks Sacred : *hit* : (14 + 52 = 66)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:31] Morrico damages Sacred: 88 (86 Physical 2 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:31] Morrico damages Sacred: 87 (81 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:33] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:34] Morrico uses Wand of Invisibility
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:34] Use Magic Device skill: 30 + 6 vs DC 20
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:34] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:35] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 20%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:42] Morrico uses Haste
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:42] Use Magic Device skill: 30 + 10 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:42] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:48] Morrico uses Mordenkainen's Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:48] Use Magic Device skill: 30 + 10 vs DC 32
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:48] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:48] Summoned a creature
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:49] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:49] Weapon equipped as a two-handed weapon.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:49] Armor/Shield Applies: Skill Armor Check Penalty: 0 Arcane Spell Failure: 5%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:57] Sacred attacks Mordenkainen's Sword : *hit* : (8 + 38 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:57] Sacred attacks Mordenkainen's Sword : *hit* : (13 + 33 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:59] Morrico : Initiative Roll : 20 : (15 + 5 = 20)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:59] Sacred attacks Mordenkainen's Sword : *hit* : (3 + 32 = 35)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:59] Sneak Attack : Morrico attempts Knockdown on Red Half Dragon Cleric : *hit* : (13 + 55 = 68)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:59] Sneak Attack : Morrico attacks Red Half Dragon Cleric : *hit* : (11 + 54 = 65)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:51:59] Morrico damages Red Half Dragon Cleric: 82 (82 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:00] Morrico damages Red Half Dragon Cleric: 79 (79 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:00] Sacred attacks Mordenkainen's Sword : *hit* : (10 + 27 = 37)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:01] Sneak Attack : Morrico attacks Red Half Dragon Cleric : *critical hit* : (20 + 51 = 71 : Threat Roll: 9 + 51 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:02] Sneak Attack : Morrico attacks Red Half Dragon Cleric : *hit* : (2 + 46 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:02] Morrico damages Red Half Dragon Cleric: 202 (202 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:02] Attack Of Opportunity : Mordenkainen's Sword attacks Sacred : *miss* : (18 + 8 = 26)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:02] Morrico damages Red Half Dragon Cleric: 88 (88 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:02] Morrico killed Red Half Dragon Cleric
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:02] Experience Points Gained:  62
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:04] Sacred attacks Mordenkainen's Sword : *hit* : (8 + 42 = 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:04] Power Attack : Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 54 = 70 : Threat Roll: 19 + 54 = 73)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:04] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (12 + 49 = 61)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:05] Sacred attacks Mordenkainen's Sword : *hit* : (9 + 37 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:05] Morrico damages Sacred: 82 (82 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:05] Morrico damages Sacred: 215 (215 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:06] Sacred attacks Mordenkainen's Sword : *hit* : (9 + 30 = 39)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:06] Sneak Attack : Morrico attacks Sacred : *miss* : (3 + 49 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:06] Sneak Attack : Morrico attacks Sacred : *hit* : (12 + 44 = 56)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:07] Morrico damages Sacred: 76 (76 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:08] Sacred attacks Mordenkainen's Sword : *hit* : (18 + 24 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:09] Sneak Attack : Morrico attacks Sacred : *hit* : (10 + 56 = 66)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:09] Morrico damages Sacred: 84 (84 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:10] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (17 + 28 = 45)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:10] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (14 + 23 = 37)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:10] Power Attack : Morrico attacks Sacred : *miss* : (2 + 49 = 51)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:10] Power Attack : Morrico attacks Sacred : *critical hit* : (20 + 44 = 64 : Threat Roll: 13 + 44 = 57)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:11] Morrico damages Sacred: 141 (141 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:12] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (16 + 18 = 34)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:12] Morrico attacks Sacred : *hit* : (10 + 44 = 54)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:12] Morrico attacks Sacred : *miss* : (8 + 39 = 47)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:13] Morrico damages Sacred: 37 (37 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:13] Mordenkainen's Sword attacks Sacred : *miss* : (14 + 8 = 22)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:15] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (4 + 13 = 17)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:15] Morrico attacks Sacred : *critical hit* : (20 + 54 = 74 : Threat Roll: 20 + 54 = 74)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:15] Morrico damages Sacred: 119 (119 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:16] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (18 + 28 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:16] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (16 + 23 = 39)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:18] Power Attack : Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 51 = 67 : Threat Roll: 8 + 51 = 59)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:18] Power Attack : Sneak Attack : Morrico attacks Sacred : *critical hit* : (20 + 46 = 66 : Threat Roll: 9 + 46 = 55)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:18] Morrico damages Sacred: 202 (202 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:18] Morrico damages Sacred: 198 (198 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:19] Mordenkainen's Sword attacks Sacred : *miss* : (3 + 8 = 11)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:19] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (19 + 18 = 37)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:20] Sneak Attack : Morrico attacks Sacred : *hit* : (9 + 46 = 55)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:20] Sneak Attack : Morrico attacks Sacred : *critical hit* : (16 + 41 = 57 : Threat Roll: 14 + 41 = 55)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:20] Morrico damages Sacred: 202 (202 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:20] Morrico damages Sacred: 83 (83 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:20] Improved Power Attack : Sacred attacks Mordenkainen's Sword : *hit* : (3 + 13 = 16)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:22] Sacred casting unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:22] Morrico attacks Sacred : *hit* : (12 + 54 = 66)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:22] Morrico damages Sacred: 30 (30 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:24] Sacred casts unknown spell
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:24] Power Attack : Morrico attacks Sacred : *hit* : (13 + 49 = 62)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:24] Power Attack : Morrico attacks Sacred : *hit* : (17 + 44 = 61 : Threat Roll: 8 + 44 = 52)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:24] Mordenkainen's Sword attacks Sacred : *miss* : (5 + 8 = 13)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:24] Morrico damages Sacred: 42 (42 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:24] Morrico damages Sacred: 42 (42 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:25] Sacred damages Mordenkainen's Sword: 72 (72 Fire)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:26] Power Attack : Sneak Attack : Morrico attacks Sacred : *miss* : (4 + 39 = 43)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:26] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (19 + 34 = 53 : Threat Roll: 11 + 34 = 45)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:27] Morrico damages Sacred: 81 (81 Physical)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:32] Morrico uses Mordenkainen's Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:32] Use Magic Device skill: 30 + 6 vs DC 32
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:32] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:32] Summoned a creature
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:38] Morrico uses Divine Favor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:44] Morrico uses Holy Sword
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:44] Use Magic Device skill: 30 + 9 vs DC 29
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:44] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:44] Sacred attacks Mordenkainen's Sword : *hit* : (14 + 34 = 48)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:44] Sacred attacks Mordenkainen's Sword : *hit* : (10 + 29 = 39)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:45] Morrico: Let's make this quick, shall we?
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:45] Morrico : Initiative Roll : 12 : (7 + 5 = 12)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:46] Sacred attacks Mordenkainen's Sword : *hit* : (18 + 28 = 46)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:47] Power Attack : Sneak Attack : Morrico attacks Sacred : *hit* : (9 + 54 = 63)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:48] Power Attack : Sneak Attack : Morrico attacks Sacred : *critical hit* : (19 + 49 = 68 : Threat Roll: 20 + 49 = 69)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:48] Morrico damages Sacred: 103 (98 Physical 5 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:48] Morrico damages Sacred: 225 (211 Physical 14 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:49] Mordenkainen's Sword attacks Sacred : *miss* : (17 + 8 = 25)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:49] Sneak Attack : Morrico attacks Sacred : *critical hit* : (18 + 49 = 67 : Threat Roll: 20 + 49 = 69)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:49] Sneak Attack : Morrico attacks Sacred : *hit* : (14 + 44 = 58)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:50] Morrico damages Sacred: 85 (81 Physical 4 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:50] Morrico damages Sacred: 182 (173 Physical 9 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:50] Sacred attacks Mordenkainen's Sword : *hit* : (19 + 23 = 42)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:51] Sacred: HP>100
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:51] Sacred attempts Improved Disarm on Mordenkainen's Sword : *failed* : (2 + 34 = 36)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:51] Sacred attacks Mordenkainen's Sword : *hit* : (2 + 33 = 35)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:52] Morrico attacks Sacred : *hit* : (14 + 57 = 71)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:52] Morrico damages Sacred: 39 (38 Physical 1 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:53] Sacred attacks Mordenkainen's Sword : *hit* : (4 + 28 = 32)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:53] Power Attack : Morrico attacks Sacred : *hit* : (8 + 52 = 60)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:53] Power Attack : Morrico attacks Sacred : *hit* : (14 + 47 = 61)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:54] Morrico damages Sacred: 48 (45 Physical 3 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:54] Morrico damages Sacred: 47 (41 Physical 6 Positive Energy)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:54] Morrico killed Sacred
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:54] Experience Points Gained:  400
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:55] Unsummoning Mordenkainen's Sword.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:57] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:52:57] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:04] Acquired Item: Flame Brand Studded Leather Armor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:04] Flame Brand Studded Leather Armor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:04] Acquired 17436GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:04] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:05] Acquired Item: Superior Small Shield of Lightning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:05] Superior Small Shield of Lightning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:07] Acquired Item: Unique Leather Armor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:07] Unique Leather Armor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:08] Acquired Item: Power Word, Stun
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:08] Power Word, Stun
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:15] Hear Ye! The hour of the morning is 10 am
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:43] Take 20 : Morrico : Disable Trap : *success* : (20 + 32 = 52 vs. DC: 49)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:43] Experience Points Gained:  13
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:44] Chance to find a bonus item (Search): 45%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:45] Acquired Item: Scroll
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:45] Unidentified Item
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:54] Area CR: 34
+[CHAT WINDOW TEXT] [Mon Dec  7 08:53:54] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:10] Take 20 : Morrico : Disable Trap : *success* : (20 + 32 = 52 vs. DC: 49)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:10] Experience Points Gained:  15
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:10] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:10] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:11] Acquired 927GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:11] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:12] Acquired Item: Fire Opal
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:12] Fire Opal
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:22] Chance to find a bonus item (Search): 47%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:22] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:23] Acquired Item: Vampiric Touch
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:23] Vampiric Touch
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:24] Acquired 4482GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:24] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:32] Take 20 : Morrico : Open Lock : *success* : (20 + 31 = 51 vs. DC: 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:32] Experience Points Gained:  13
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:38] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:38] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:39] Acquired 1557GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:39] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:41] Acquired Item: Spear
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:41] Unidentified Item
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:45] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:45] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:46] Acquired 3860GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:46] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:49] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:49] Acquired 264GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:54:49] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:06] Take 20 : Morrico : Disable Trap : *success* : (20 + 32 = 52 vs. DC: 49)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:06] Experience Points Gained:  19
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:07] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:07] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:08] Acquired Item: Mace of Life
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:08] Mace of Life
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:23] Take 20 : Morrico : Disable Trap : *success* : (20 + 32 = 52 vs. DC: 49)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:23] Experience Points Gained:  19
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:24] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:24] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:26] Acquired Item: Cooked Meat Slab
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:26] Cooked Meat Slab
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:26] Acquired 435GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:26] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:35] Take 20 : Morrico : Open Lock : *success* : (20 + 31 = 51 vs. DC: 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:35] Experience Points Gained:  16
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:40] Take 20 : Morrico : Disable Trap : *success* : (20 + 32 = 52 vs. DC: 50)
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:40] Experience Points Gained:  22
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:41] Chance to find a bonus item (Search): 50%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:42] Acquired 3342GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:42] Gold
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:47] Chance to find a bonus item (Search): 43%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:48] Acquired Item: Greater Sonic Bolt
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:48] Greater Sonic Bolt
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:51] Morrico uses item's special power.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:54] Area CR: 1
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:54] [Server] You are now in a Full PVP Area.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:59] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:55:59] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 20%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:02] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:03] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:04] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:06] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:18] Morrico uses Identify
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:18] Use Magic Device skill: 29 + 13 vs DC 28
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:18] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:27] Thrar D'Olath Lanke: Greetings Travelers, Interested in trade?
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:28] Morrico: Yes! Show me your wares.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:28] Your buy rate (persuasion/appraisal): 95%
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:30] Lost Item: Flame Brand Studded Leather Armor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:30] Acquired 47530GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:30] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:31] Lost Item: Superior Small Shield of Lightning
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:31] Acquired 11667GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:31] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:32] Lost Item: Unique Spear
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:32] Acquired 163592GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:32] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:33] Lost Item: Unique Leather Armor
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:33] Acquired 23108GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:33] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:33] Lost Item: Greater Sonic Bolt
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:33] Acquired 53GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:33] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:34] Lost Item: Mace of Life
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:34] Acquired 528GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:34] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:39] Lost Item: Fire Opal
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:39] Acquired 200GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:39] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:40] Lost Item: Vampiric Touch
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:40] Acquired 432GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:40] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:40] Lost Item: Hold Animal
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:40] Acquired 86GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:40] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:41] Lost Item: Power Word, Stun
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:41] Acquired 2621GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:41] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:49] Lost Item: Unique Gloves
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:49] Acquired 8046GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:49] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:50] Lost Item: Greater Belt of Intelligence
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:50] Acquired 7744GP
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:50] Transaction Successful!
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:58] Morrico uses item's special power.
+[CHAT WINDOW TEXT] [Mon Dec  7 08:56:59] Action Tool: What would you like to do?
+[CHAT WINDOW TEXT] [Mon Dec  7 08:57:00] Morrico: Do a manual character save (this may come in handy if you cannot rest/save due to rest restrictions).
+[CHAT WINDOW TEXT] [Mon Dec  7 08:57:00] Action Tool: What would you like to do?

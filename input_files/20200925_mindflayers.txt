@@ -1,0 +1,1343 @@
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:02] Drakolithid Soul Knife : [Shout] 7
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:02] Drakolithid Soul Knife damages Hana Haley: 20 (20 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:02] Drakolithid Soul Knife damages Hana Haley: 30 (22 Physical 8 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:03] Attack Of Opportunity : IronCat attacks Mind Flayer Savant : *hit* : (14 + 31 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:03] Drakolithid Soul Knife attacks Hana Haley : *miss* : (15 + 27 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:03] Ranged Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:03] IronCat damages Mind Flayer Savant: 31 (21 Physical 7 Acid 1 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:04] IronCat attacks Mind Flayer Savant : *hit* : (2 + 36 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:04] Hana Haley attacks Drakolithid Soul Knife : *hit* : (3 + 47 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Sneak Attack : Jeera attacks Inquisitor : *hit* : (6 + 38 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Hana Haley damages Drakolithid Soul Knife: 43 (33 Physical 6 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Hana Haley killed Drakolithid Soul Knife
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Experience Points Gained:  100
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] IronCat attacks Mind Flayer Savant : *hit* : (10 + 31 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] IronCat damages Mind Flayer Savant: 42 (24 Physical 8 Acid 4 Cold 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] IronCat killed Mind Flayer Savant
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Experience Points Gained:  100
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (15 + 33 = 48 : Threat Roll: 8 + 33 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Jeera damages Inquisitor: 25 (25 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Hana Haley attacks Inquisitor : *miss* : (1 + 49 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Hana Haley attacks Inquisitor : *critical hit* : (18 + 44 = 62 : Threat Roll: 10 + 44 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Jeera damages Inquisitor: 46 (46 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:05] Hana Haley damages Inquisitor: 222 (161 Physical 19 Electrical 42 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:07] Jeera attacks Inquisitor : *critical hit* : (13 + 28 = 41 : Threat Roll: 16 + 28 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:07] Jeera attacks Inquisitor : *miss* : (7 + 23 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:07] Jeera damages Inquisitor: 39 (39 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:08] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:08] IronCat: Everyone group up over here, all right?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:09] Hana Haley attacks Inquisitor : *hit* : (2 + 47 = 49)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:10] Hana Haley attacks Inquisitor : *critical hit* : (18 + 42 = 60 : Threat Roll: 15 + 42 = 57)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:10] Hana Haley damages Inquisitor: 42 (30 Physical 3 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:10] Hana Haley damages Inquisitor: 205 (155 Physical 17 Electrical 33 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:11] Hana Haley attacks Inquisitor : *hit* : (3 + 39 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:12] Hana Haley attacks Inquisitor : *hit* : (4 + 34 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:12] Hana Haley damages Inquisitor: 46 (31 Physical 6 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:12] Hana Haley damages Inquisitor: 39 (27 Physical 3 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:13] Hana Haley attacks Inquisitor : *hit* : (2 + 44 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:14] Hana Haley damages Inquisitor: 35 (25 Physical 5 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:14] Inquisitor uses tentacle attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:14] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:14] IronCat uses Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:15] IronCat : Healed 116 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:15] Hana Haley attacks Inquisitor : *hit* : (5 + 44 = 49)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:15] Hana Haley attacks Inquisitor : *hit* : (14 + 39 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:15] Jeera : Healed 124 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:15] Hana Haley : Healed 108 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:16] Hana Haley damages Inquisitor: 36 (25 Physical 3 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:16] Hana Haley damages Inquisitor: 32 (26 Physical 3 Electrical 3 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:17] Hana Haley attacks Inquisitor : *hit* : (14 + 32 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:17] IronCat attacks Inquisitor : *hit* : (17 + 31 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:17] IronCat attacks Inquisitor : *miss* : (9 + 26 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] Hana Haley attacks Inquisitor : *hit* : (12 + 27 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] Hana Haley damages Inquisitor: 35 (25 Physical 2 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] IronCat damages Inquisitor: 24 (16 Physical 3 Acid 3 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] Jeera attacks Inquisitor : *hit* : (11 + 33 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] Jeera attacks Inquisitor : *critical hit* : (16 + 28 = 44 : Threat Roll: 17 + 28 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:18] Hana Haley damages Inquisitor: 31 (24 Physical 2 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:19] Jeera damages Inquisitor: 29 (29 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:19] Jeera damages Inquisitor: 15 (15 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:19] Hana Haley attacks Inquisitor : *miss* : (1 + 44 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:20] Jeera attacks Inquisitor : *miss* : (3 + 23 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:20] Jeera attacks Inquisitor : *miss* : (7 + 18 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:20] Inquisitor: *Summons Minions*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:20] Hana Haley: [Party] lead him away
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:21] Hana Haley attacks Inquisitor : *hit* : (8 + 44 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:21] Hana Haley attacks Inquisitor : *hit* : (6 + 39 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:21] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:22] Hana Haley damages Inquisitor: 36 (26 Physical 6 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:22] Hana Haley damages Inquisitor: 39 (26 Physical 2 Electrical 11 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:22] Sneak Attack : Jeera attacks Inquisitor : *hit* : (5 + 33 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:23] Jeera damages Inquisitor: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:23] Hana Haley attacks Inquisitor : *hit* : (12 + 32 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:24] Hana Haley attacks Inquisitor : *critical hit* : (18 + 27 = 45 : Threat Roll: 7 + 27 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:24] Hana Haley damages Inquisitor: 39 (25 Physical 5 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:24] Hana Haley damages Inquisitor: 203 (138 Physical 18 Electrical 47 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:24] Jeera attacks Inquisitor : *miss* : (3 + 33 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:24] Jeera attacks Inquisitor : *hit* : (10 + 28 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:24] Jeera damages Inquisitor: 15 (15 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:25] Drakolithid Soul Knife attacks Hana Haley : *hit* : (13 + 37 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:25] Drakolithid Soul Knife attacks Hana Haley : *miss* : (7 + 32 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:25] Drakolithid Soul Knife : [Shout] 7
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:25] Drakolithid Soul Knife damages Hana Haley: 34 (34 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:25] Drakolithid Soul Knife damages Hana Haley: 27 (20 Physical 7 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:25] Mind Flayer Psion uses bolt attack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:26] IronCat uses Divine Favor
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:26] Spellcraft skill: 33 + 5 vs DC 27
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:26] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:26] Jeera attacks Inquisitor : *miss* : (10 + 23 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:26] Mind Flayer Psion casts Psionic Charm Monster
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:27] Jeera attacks Inquisitor : *miss* : (12 + 18 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:27] Drakolithid Soul Knife attacks Hana Haley : *miss* : (1 + 27 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:27] IronCat : Will Save vs. Mind Spells : *success* : (3 + 38 = 41 vs. DC: 17)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:28] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (16 + 5 = 21)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:28] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (9 + 0 = 9)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:28] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:29] Drakolithid Soul Knife attacks Hana Haley : *miss* : (12 + 22 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:29] Power Attack : IronCat attacks Mind Flayer Psion : *hit* : (18 + 31 = 49)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:30] Power Attack : IronCat attacks Mind Flayer Psion : *hit* : (8 + 26 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:30] IronCat damages Mind Flayer Psion: 39 (30 Physical 3 Acid 3 Cold 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:30] IronCat damages Mind Flayer Psion: 46 (29 Physical 10 Acid 2 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:31] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (14 + 15 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:31] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (13 + 10 = 23)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:32] Power Attack : IronCat attacks Mind Flayer Psion : *miss* : (11 + 23 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:32] Drakolithid Soul Knife attacks Hana Haley : *miss* : (17 + 37 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:32] Drakolithid Soul Knife attacks Hana Haley : *miss* : (18 + 32 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:32] Mind Flayer Psion uses bolt attack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:33] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *hit* : (19 + 25 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:34] Hana Haley damages Drakolithid Soul Knife: 30 (21 Physical 4 Electrical 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:34] Mind Flayer Psion casts Psionic Charm Monster
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:34] Drakolithid Soul Knife attacks Hana Haley : *miss* : (16 + 27 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:35] Inquisitor uses tentacle attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:35] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:35] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (11 + 25 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:35] Gordon : [Shout] 8
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:35] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (13 + 20 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:36] Drakolithid Soul Knife attacks Hana Haley : *miss* : (6 + 22 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:37] IronCat uses Greater Restoration
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:37] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (15 + 15 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:38] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (7 + 10 = 17)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:38] Mind Flayer Psion uses bolt attack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:38] Drakolithid Soul Knife attacks Hana Haley : *miss* : (10 + 37 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:39] Drakolithid Soul Knife attacks Hana Haley : *miss* : (6 + 32 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:39] Sneak Attack : Jeera attacks Mind Flayer Psion : *critical hit* : (14 + 35 = 49 : Threat Roll: 11 + 35 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:39] Sneak Attack : Jeera attacks Mind Flayer Psion : *hit* : (10 + 30 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:39] Jeera damages Mind Flayer Psion: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:39] Jeera damages Mind Flayer Psion: 39 (39 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:40] Mind Flayer Psion casts Psionic Charm Monster
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:40] Drakolithid Soul Knife attacks Hana Haley : *miss* : (12 + 27 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:40] IronCat attacks Mind Flayer Psion : *hit* : (8 + 36 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] IronCat attacks Mind Flayer Psion : *hit* : (10 + 31 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] IronCat damages Mind Flayer Psion: 33 (19 Physical 10 Acid 2 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] Sneak Attack : Jeera attacks Mind Flayer Psion : *hit* : (5 + 23 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (16 + 25 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] Sneak Attack : Jeera attacks Mind Flayer Psion : *hit* : (16 + 18 = 34 : Threat Roll: 5 + 18 = 23)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] Jeera damages Mind Flayer Psion: 21 (21 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:41] IronCat damages Mind Flayer Psion: 36 (25 Physical 3 Acid 2 Cold 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:42] Jeera damages Mind Flayer Psion: 19 (19 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:42] Drakolithid Soul Knife attacks Hana Haley : *miss* : (16 + 22 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:43] IronCat : [Party] kill psion fast
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:43] IronCat attacks Mind Flayer Psion : *critical hit* : (20 + 28 = 48 : Threat Roll: 18 + 28 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:43] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:43] IronCat damages Mind Flayer Psion: 71 (46 Physical 18 Acid 5 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:43] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (18 + 20 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:44] Sneak Attack : Jeera attacks Inquisitor : *hit* : (9 + 33 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:44] Sneak Attack : Jeera attacks Inquisitor : *miss* : (2 + 28 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:44] Jeera damages Inquisitor: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:45] IronCat attacks Mind Flayer Psion : *hit* : (8 + 38 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:45] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (15 + 15 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:45] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (9 + 10 = 19)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:45] IronCat damages Mind Flayer Psion: 32 (19 Physical 7 Acid 2 Cold 4 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:46] Drakolithid Soul Knife casts Psionic Charm Monster
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:46] Jeera attacks Inquisitor : *miss* : (10 + 23 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:46] IronCat : Will Save vs. Mind Spells : *success* : (16 + 38 = 54 vs. DC: 17)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:46] Mind Flayer Psion casts Psionic Charm Monster
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] IronCat attacks Mind Flayer Psion : *miss* : (1 + 38 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] IronCat attacks Mind Flayer Psion : *hit* : (19 + 33 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] Jeera attacks Inquisitor : *miss* : (7 + 18 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] IronCat damages Mind Flayer Psion: 36 (26 Physical 5 Acid 1 Cold 4 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] IronCat killed Mind Flayer Psion
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] Experience Points Gained:  100
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *hit* : (12 + 25 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:47] Hana Haley damages Drakolithid Soul Knife: 22 (16 Physical 2 Electrical 4 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:48] Jeera attacks Inquisitor : *hit* : (8 + 33 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:49] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:49] Jeera damages Inquisitor: 12 (12 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:49] IronCat attacks Inquisitor : *miss* : (3 + 28 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:49] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (16 + 25 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:50] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (6 + 20 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:51] Drakolithid Soul Knife attacks Hana Haley : *miss* : (16 + 37 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:51] Drakolithid Soul Knife attacks Hana Haley : *miss* : (8 + 32 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:52] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (5 + 15 = 20)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:53] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (3 + 10 = 13)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:53] IronCat attacks Mind Flayer Psion : *hit* : (9 + 36 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:53] IronCat damages Mind Flayer Psion: 35 (24 Physical 7 Acid 2 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:54] Drakolithid Soul Knife attacks Hana Haley : *miss* : (19 + 27 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:55] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (18 + 25 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:55] IronCat attacks Mind Flayer Psion : *hit* : (7 + 31 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:55] Inquisitor uses tentacle attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:55] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:55] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:55] IronCat damages Mind Flayer Psion: 36 (24 Physical 6 Acid 1 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:56] Drakolithid Soul Knife attacks Hana Haley : *miss* : (8 + 22 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:56] Mind Flayer Psion uses bolt attack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:56] Mind Flayer Psion attempts Ranged Touch Attack on IronCat : *critical hit* : (20 + 22 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:56] Mind Flayer Psion damages IronCat: 192 (192 Cold)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:57] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (11 + 25 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:58] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (2 + 20 = 22)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:58] IronCat attacks Mind Flayer Psion : *hit* : (13 + 26 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:58] Attack Of Opportunity : Drakolithid Soul Knife attacks Hana Haley : *miss* : (5 + 37 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:58] Ranged Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:58] IronCat damages Mind Flayer Psion: 30 (19 Physical 8 Acid 2 Cold 1 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:59] Hana Haley uses Greater Potion of Haste 
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:59] Drakolithid Soul Knife attacks Hana Haley : *miss* : (18 + 32 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:59] Drakolithid Soul Knife attacks Hana Haley : *miss* : (6 + 27 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:50:59] IronCat attacks Mind Flayer Psion : *hit* : (4 + 36 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:00] IronCat damages Mind Flayer Psion: 35 (25 Physical 2 Acid 3 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:00] Drakolithid Soul Knife attacks Hana Haley : *miss* : (19 + 22 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:01] Drakolithid Soul Knife attacks Hana Haley : *miss* : (12 + 37 = 49)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:02] Inquisitor uses tentacle attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:02] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:02] Ranged Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:02] Drakolithid Soul Knife casting Entangle
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:02] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (14 + 25 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:02] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (4 + 20 = 24)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:03] IronCat attacks Mind Flayer Psion : *hit* : (7 + 31 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:03] Ranged Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:03] IronCat : [Party] 200 dmg
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:03] IronCat damages Mind Flayer Psion: 37 (20 Physical 10 Acid 1 Cold 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:03] IronCat killed Mind Flayer Psion
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:03] Experience Points Gained:  100
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Jeera attacks Inquisitor : *critical hit* : (18 + 33 = 51 : Threat Roll: 18 + 33 = 51)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Jeera attacks Inquisitor : *critical hit* : (12 + 28 = 40 : Threat Roll: 14 + 28 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Jeera damages Inquisitor: 30 (30 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Jeera damages Inquisitor: 34 (34 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Drakolithid Soul Knife casts Entangle
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (5 + 15 = 20)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:04] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (2 + 10 = 12)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:06] Sneak Attack : Jeera attacks Inquisitor : *hit* : (18 + 23 = 41 : Threat Roll: 6 + 23 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:06] Jeera damages Inquisitor: 18 (18 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:08] Jeera attacks Inquisitor : *miss* : (14 + 18 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:08] Hana Haley uses Wand of Fire Wall
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:08] Drakolithid Soul Knife attacks Hana Haley : *miss* : (1 + 39 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:08] Drakolithid Soul Knife attacks Hana Haley : *miss* : (9 + 34 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:09] IronCat uses Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:09] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:09] IronCat : Will Save vs. Mind Spells : *success* : (12 + 38 = 50 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] Jeera : Healed 18 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (14 + 33 = 47 : Threat Roll: 8 + 33 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] Hana Haley : Healed 114 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (12 + 28 = 40 : Threat Roll: 8 + 28 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] Jeera damages Inquisitor: 34 (34 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] IronCat : Healed 94 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] IronCat : Reflex Save : *success* : (5 + 11 = 16 vs. DC: 16)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:10] IronCat : Immune to Slow.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:11] Drakolithid Soul Knife attacks Hana Haley : *miss* : (3 + 27 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:11] Jeera damages Inquisitor: 37 (37 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:12] Sneak Attack : Jeera attacks Inquisitor : *miss* : (6 + 21 = 27)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:12] Drakolithid Soul Knife attacks Hana Haley : *miss* : (11 + 22 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:14] Drakolithid Soul Knife attacks Hana Haley : *miss* : (17 + 37 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:14] Drakolithid Soul Knife attacks Hana Haley : *miss* : (8 + 32 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:15] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:17] Jeera uses Owl's Wisdom
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:17] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (14 + 25 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:18] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (10 + 20 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:19] Drakolithid Soul Knife attacks Hana Haley : *miss* : (19 + 37 = 56)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:19] Drakolithid Soul Knife attacks Hana Haley : *miss* : (19 + 32 = 51)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:20] IronCat uses Gust of Wind
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:20] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (17 + 15 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] Spellcraft skill: 33 + 9 vs DC 30
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] Drakolithid Soul Knife attempts to resist spell : spell resisted
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] IronCat : Fortitude Save : *success* : (4 + 38 = 42 vs. DC: 16)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] Inquisitor : Fortitude Save : *success* : (6 + 29 = 35 vs. DC: 16)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] Jeera : Fortitude Save : *success* : (10 + 33 = 43 vs. DC: 16)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:21] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (10 + 10 = 20)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:22] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:22] IronCat : Will Save : *success* : (6 + 38 = 44 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:22] Drakolithid Soul Knife attacks Hana Haley : *miss* : (18 + 27 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:23] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:23] Jeera uses Bull's Strength
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:24] Drakolithid Soul Knife attacks Hana Haley : *miss* : (11 + 22 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:24] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *hit* : (19 + 25 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:25] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (10 + 20 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:25] Hana Haley damages Drakolithid Soul Knife: 24 (15 Physical 3 Electrical 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:26] Drakolithid Soul Knife casting Scare
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:26] IronCat uses Divine Favor
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:26] Spellcraft skill: 33 + 7 vs DC 27
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:26] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:27] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (13 + 15 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:27] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (19 + 10 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:28] Drakolithid Soul Knife casts Scare
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:28] Hana Haley: [Party] gmw me
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:29] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (5 + 25 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:29] Jeera uses Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:30] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *hit* : (16 + 25 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:31] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *hit* : (16 + 20 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:31] Hana Haley damages Drakolithid Soul Knife: 28 (18 Physical 4 Electrical 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:31] Hana Haley damages Drakolithid Soul Knife: 27 (16 Physical 4 Electrical 7 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:32] IronCat attacks Drakolithid Soul Knife : *hit* : (16 + 38 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:32] IronCat damages Drakolithid Soul Knife: 35 (22 Physical 6 Acid 2 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:33] Inquisitor attacks IronCat : *miss* : (6 + 31 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:33] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (10 + 15 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:33] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (10 + 10 = 20)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:33] Drakolithid Soul Knife attacks Hana Haley : *miss* : (14 + 37 = 51)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:33] Drakolithid Soul Knife attacks Hana Haley : *miss* : (13 + 32 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:34] Sneak Attack : Jeera attacks Inquisitor : *hit* : (3 + 35 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:34] Sneak Attack : Jeera attacks Inquisitor : *miss* : (4 + 30 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:34] Jeera damages Inquisitor: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:34] IronCat attacks Drakolithid Soul Knife : *hit* : (11 + 33 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:34] IronCat damages Drakolithid Soul Knife: 32 (22 Physical 7 Acid 1 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:35] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (6 + 25 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:35] Inquisitor attacks IronCat : *miss* : (1 + 26 = 27)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:36] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (17 + 25 = 42 : Threat Roll: 15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:36] Sneak Attack : Jeera attacks Inquisitor : *miss* : (2 + 20 = 22)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:36] Drakolithid Soul Knife attacks Hana Haley : *miss* : (15 + 27 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:36] Jeera damages Inquisitor: 33 (33 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:37] Inquisitor attacks IronCat : *miss* : (15 + 21 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:37] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (12 + 25 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (6 + 20 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] IronCat attacks Drakolithid Soul Knife : *miss* : (2 + 28 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] Inquisitor damages IronCat: 5 (5 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] *Thrust/Reach Attack!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (12 + 35 = 47 : Threat Roll: 15 + 35 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] Jeera damages Inquisitor: 36 (36 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:38] Drakolithid Soul Knife attacks Hana Haley : *miss* : (15 + 22 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:39] Inquisitor: HP>6000
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:39] Inquisitor attacks IronCat : *miss* : (4 + 31 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:39] Drakolithid Soul Knife attacks Hana Haley : *miss* : (13 + 37 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:40] Sneak Attack : Jeera attacks Inquisitor : *miss* : (2 + 35 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:40] Sneak Attack : Jeera attacks Inquisitor : *hit* : (14 + 30 = 44 : Threat Roll: 7 + 30 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:40] Jeera damages Inquisitor: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:40] Drakolithid Soul Knife attacks Hana Haley : *miss* : (8 + 32 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:40] IronCat attacks Drakolithid Soul Knife : *miss* : (1 + 38 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:41] Inquisitor attacks IronCat : *miss* : (10 + 26 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:41] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (11 + 15 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:41] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (4 + 10 = 14)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:42] Sneak Attack : Jeera attacks Inquisitor : *miss* : (9 + 25 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:42] Sneak Attack : Jeera attacks Inquisitor : *miss* : (7 + 20 = 27)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:42] IronCat attacks Drakolithid Soul Knife : *critical hit* : (20 + 33 = 53 : Threat Roll: 15 + 33 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:42] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (4 + 25 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:43] IronCat damages Drakolithid Soul Knife: 67 (40 Physical 11 Acid 5 Cold 11 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:43] Inquisitor attacks IronCat : *miss* : (9 + 21 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:44] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (15 + 35 = 50 : Threat Roll: 18 + 35 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:44] IronCat : Tumble : *success* : (17 + 4 = 21 vs. DC: 15)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:44] Jeera damages Inquisitor: 31 (31 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:46] Jeera attacks Inquisitor : *hit* : (9 + 33 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:46] Jeera attacks Inquisitor : *miss* : (3 + 28 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:46] Jeera damages Inquisitor: 13 (13 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:46] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:46] IronCat : Will Save vs. Mind Spells : *success* : (9 + 38 = 47 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:48] Sneak Attack : Jeera attacks Inquisitor : *miss* : (7 + 23 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:48] Drakolithid Soul Knife attacks Hana Haley : *miss* : (15 + 27 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:48] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:48] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (7 + 20 = 27)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:48] Sneak Attack : Jeera attacks Inquisitor : *miss* : (3 + 18 = 21)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:49] IronCat attacks Drakolithid Soul Knife : *hit* : (19 + 28 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:49] Drakolithid Soul Knife attacks Hana Haley : *miss* : (3 + 37 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:49] Drakolithid Soul Knife attacks Hana Haley : *miss* : (1 + 32 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:49] IronCat damages Drakolithid Soul Knife: 34 (19 Physical 9 Acid 4 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:50] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (20 + 33 = 53 : Threat Roll: 8 + 33 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:50] IronCat attacks Drakolithid Soul Knife : *hit* : (20 + 38 = 58 : Threat Roll: 3 + 38 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:50] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (10 + 15 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:50] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (3 + 10 = 13)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:50] Jeera damages Inquisitor: 28 (28 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:50] IronCat damages Drakolithid Soul Knife: 30 (26 Physical 1 Acid 2 Cold 1 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:51] Drakolithid Soul Knife attacks Hana Haley : *miss* : (14 + 27 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] Jeera attacks Inquisitor : *miss* : (2 + 33 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] Jeera attacks Inquisitor : *miss* : (7 + 28 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] IronCat attacks Drakolithid Soul Knife : *hit* : (19 + 33 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] Improved Expertise : Hana Haley attacks Drakolithid Soul Knife : *miss* : (17 + 25 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] IronCat damages Drakolithid Soul Knife: 27 (19 Physical 2 Acid 4 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] IronCat killed Drakolithid Soul Knife
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:52] Experience Points Gained:  164
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:53] Hana Haley: [Party] bring the boss here
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:54] Sneak Attack : Jeera attacks Inquisitor : *hit* : (20 + 23 = 43 : Threat Roll: 7 + 23 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:54] Sneak Attack : Jeera attacks Inquisitor : *miss* : (7 + 18 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:54] Jeera damages Inquisitor: 19 (19 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:56] Jeera attacks Inquisitor : *hit* : (9 + 33 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:56] IronCat: You'll follow me, won't you?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:56] Jeera damages Inquisitor: 14 (14 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:58] Jeera attacks Inquisitor : *hit* : (7 + 33 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:58] Jeera attacks Inquisitor : *miss* : (8 + 28 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:51:58] Jeera damages Inquisitor: 14 (14 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:00] Jeera attacks Inquisitor : *miss* : (14 + 23 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:00] Jeera attacks Inquisitor : *miss* : (15 + 18 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:03] Hana Haley uses Keen Edge
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:03] IronCat : [Party] hello?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:03] IronCat uses Planar Ally
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:03] Spellcraft skill: 33 + 10 vs DC 32
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:03] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:03] Summoned a creature
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:08] Planar Ally Guardinal Leonal casting Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:10] Hana Haley uses Freedom of Movement
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:10] IronCat uses Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:11] Planar Ally Guardinal Leonal casts Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:11] IronCat : Healed 60 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:15] Planar Ally Guardinal Leonal casting Cure Critical Wounds
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:15] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:16] IronCat : [Party] Jeera
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:16] Hana Haley uses Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:16] IronCat uses Displacement
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:16] Planar Ally Guardinal Leonal casts Cure Critical Wounds
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:16] IronCat : Healed 31 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:18] Hana Haley: [Party] Jupi
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:21] Planar Ally Guardinal Leonal casting Cure Critical Wounds
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:23] Planar Ally Guardinal Leonal casts Cure Critical Wounds
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:23] IronCat : Healed 24 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:24] Hana Haley uses Death Ward
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:24] Inquisitor uses cone attack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:24] IronCat : Will Save : *success* : (8 + 38 = 46 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:24] IronCat : Initiative Roll : 13 : (13 + 0 = 13)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:25] IronCat: You'll follow me, won't you?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:30] Hana Haley uses Greater Magic Weapon
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:35] Hana Haley: [Party] stun
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:41] Attack Of Opportunity : Jeera attacks Mind Flayer Savant : *hit* : (4 + 33 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:42] Jeera attacks Mind Flayer Savant : *hit* : (20 + 28 = 48 : Threat Roll: 1 + 28 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:42] Jeera damages Mind Flayer Savant: 14 (14 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:42] Jeera damages Mind Flayer Savant: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:42] Drakolithid Soul Knife casts Psionic Charm Monster
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:42] Mind Flayer Savant attacks Jeera : *miss* : (6 + 20 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:44] IronCat : Initiative Roll : 9 : (9 + 0 = 9)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:44] Mind Flayer Savant attacks Jeera : *miss* : (13 + 15 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:45] Mind Flayer Savant attacks Jeera : *miss* : (12 + 10 = 22)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] IronCat: Step up to the fight! Bring them down!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] Hana Haley: [Party] back here
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] Drakolithid Soul Knife attacks IronCat : *miss* : (1 + 37 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] Planar Ally Guardinal Leonal is surrounded by an aura.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] IronCat attacks Drakolithid Soul Knife : *miss* : (10 + 31 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] IronCat attacks Drakolithid Soul Knife : *miss* : (11 + 26 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:46] Drakolithid Soul Knife attacks IronCat : *miss* : (11 + 32 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:47] Mind Flayer Savant attacks Jeera : *miss* : (16 + 20 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:48] Hana Haley: [Party] restore me
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:48] IronCat : Tumble : *success* : (14 + 4 = 18 vs. DC: 15)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:48] Drakolithid Soul Knife attacks IronCat : *miss* : (19 + 27 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:49] Mind Flayer Savant attacks Jeera : *miss* : (17 + 15 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:50] Inquisitor uses tentacle attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:50] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:50] Mind Flayer Savant attacks Jeera : *miss* : (10 + 10 = 20)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:51] Drakolithid Soul Knife attacks IronCat : *miss* : (18 + 24 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:51] Inquisitor damages Jeera: 270 (270 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:51] IronCat : Will Save : *success* : (3 + 24 = 27 vs. DC: 19)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:51] *Dying!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:51] Someone damages Jeera: 1 (1 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:52] IronCat attacks Mind Flayer Savant : *hit* : (12 + 33 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:52] Drakolithid Soul Knife casting Scare
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:52] IronCat attacks Mind Flayer Savant : *hit* : (18 + 28 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:52] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:52] IronCat damages Mind Flayer Savant: 33 (21 Physical 8 Acid 1 Cold 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:53] IronCat damages Mind Flayer Savant: 26 (16 Physical 3 Acid 1 Cold 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:53] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:53] Mind Flayer Savant casting Chain Lightning
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:54] Drakolithid Soul Knife casts Scare
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:55] Mind Flayer Savant casts Chain Lightning
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:55] IronCat : Reflex Save vs. Electricity : *success* : (15 + 25 = 40 vs. DC: 24)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:55] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:56] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:56] IronCat : Will Save : *success* : (7 + 38 = 45 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:56] Mind Flayer Savant damages IronCat: 21 (21 Electrical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:57] *Stabilized!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:57] IronCat : Will Save : *failure* : (15 + 24 = 39 vs. DC: 100)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:58] Drakolithid Soul Knife casting Entangle
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:58] Planar Ally Guardinal Leonal attacks Drakolithid Soul Knife : *hit* : (20 + 20 = 40 : Threat Roll: 8 + 20 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:58] Planar Ally Guardinal Leonal damages Drakolithid Soul Knife: 17 (13 Physical 4 Divine)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:52:58] IronCat uses Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] Drakolithid Soul Knife casts Entangle
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] IronCat : Healed 21 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] Planar Ally Guardinal Leonal attacks Drakolithid Soul Knife : *miss* : (15 + 15 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] Hana Haley attacks Inquisitor : *hit* : (2 + 38 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] Jeera : Healed 116 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] Hana Haley attacks Inquisitor : *hit* : (8 + 33 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] Hana Haley damages Inquisitor: 23 (16 Physical 1 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:00] IronCat: You'll follow me, won't you?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:01] Hana Haley damages Inquisitor: 28 (18 Physical 1 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:02] AOE Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:04] IronCat: You'll follow me, won't you?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:04] Drakolithid Soul Knife attacks Planar Ally Guardinal Leonal : *critical hit* : (18 + 39 = 57 : Threat Roll: 15 + 39 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:05] Drakolithid Soul Knife attacks Planar Ally Guardinal Leonal : *critical hit* : (19 + 34 = 53 : Threat Roll: 5 + 34 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:05] Drakolithid Soul Knife : [Shout] 7
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:05] Drakolithid Soul Knife damages Planar Ally Guardinal Leonal: 36 (36 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:05] Drakolithid Soul Knife damages Planar Ally Guardinal Leonal: 45 (33 Physical 12 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:05] IronCat : Initiative Roll : 16 : (16 + 0 = 16)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:05] Drakolithid Soul Knife damages Planar Ally Guardinal Leonal: 57 (44 Physical 13 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:06] Mind Flayer Savant casting Horrid Wilting
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:06] IronCat attacks Drakolithid Soul Knife : *miss* : (7 + 31 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:07] IronCat attacks Drakolithid Soul Knife : *miss* : (16 + 26 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:08] Drakolithid Soul Knife attacks IronCat : *miss* : (13 + 27 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:08] Mind Flayer Savant casts Horrid Wilting
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:08] IronCat : Fortitude Save : *success* : (4 + 38 = 42 vs. DC: 21)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:09] Drakolithid Soul Knife attacks IronCat : *miss* : (10 + 24 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:09] Mind Flayer Savant damages IronCat: 37 (37 Negative Energy)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:09] Mind Flayer Savant damages Jeera: 39 (39 Negative Energy)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:10] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (14 + 33 = 47 : Threat Roll: 1 + 33 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:10] Sneak Attack : Jeera attacks Inquisitor : *critical hit* : (20 + 28 = 48 : Threat Roll: 14 + 28 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:10] Jeera damages Inquisitor: 36 (36 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:10] Drakolithid Soul Knife attacks IronCat : *miss* : (3 + 39 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:11] Jeera damages Inquisitor: 31 (31 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:11] Drakolithid Soul Knife attacks IronCat : *miss* : (18 + 34 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:11] *Weapon Damaged*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:11] Hana Haley attacks Inquisitor : *miss* : (1 + 42 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] IronCat attacks Mind Flayer Savant : *hit* : (6 + 31 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] Hana Haley attacks Inquisitor : *hit* : (10 + 37 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] IronCat attacks Mind Flayer Savant : *hit* : (13 + 26 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] AOE Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] IronCat damages Mind Flayer Savant: 25 (16 Physical 5 Acid 1 Cold 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] Hana Haley damages Inquisitor: 36 (24 Physical 4 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] Drakolithid Soul Knife attacks IronCat : *miss* : (12 + 29 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:12] IronCat damages Mind Flayer Savant: 30 (16 Physical 8 Acid 1 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:13] Ranged Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:13] IronCat : Tumble : *success* : (19 + 4 = 23 vs. DC: 15)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:14] Hana Haley attacks Inquisitor : *hit* : (9 + 32 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:14] Hana Haley attacks Inquisitor : *hit* : (17 + 27 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:14] Hana Haley damages Inquisitor: 35 (26 Physical 6 Electrical 3 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:14] Drakolithid Soul Knife attacks IronCat : *miss* : (6 + 22 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:14] Hana Haley damages Inquisitor: 37 (27 Physical 5 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:15] Ranged Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:15] IronCat attacks Mind Flayer Savant : *miss* : (10 + 21 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:16] IronCat: Won't someone help me here?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:16] IronCat attacks Mind Flayer Savant : *miss* : (2 + 31 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Hana Haley attacks Inquisitor : *critical hit* : (18 + 42 = 60 : Threat Roll: 12 + 42 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Drakolithid Soul Knife attacks IronCat : *hit* : (18 + 39 = 57 : Threat Roll: 7 + 39 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Drakolithid Soul Knife attacks IronCat : *miss* : (14 + 34 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Hana Haley attacks Inquisitor : *hit* : (7 + 37 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Hana Haley damages Inquisitor: 192 (139 Physical 18 Electrical 35 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Drakolithid Soul Knife : [Shout] 7
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Drakolithid Soul Knife damages IronCat: 34 (34 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Drakolithid Soul Knife damages IronCat: 27 (19 Physical 8 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:17] Hana Haley damages Inquisitor: 33 (24 Physical 3 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:18] IronCat attacks Mind Flayer Savant : *hit* : (12 + 31 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:18] Mind Flayer Savant casting Horrid Wilting
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:18] IronCat attacks Mind Flayer Savant : *hit* : (8 + 26 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:18] IronCat damages Mind Flayer Savant: 25 (15 Physical 3 Acid 2 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:19] Jeera uses Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:19] Hana Haley attacks Inquisitor : *critical hit* : (19 + 34 = 53 : Threat Roll: 6 + 34 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:19] IronCat damages Mind Flayer Savant: 27 (15 Physical 7 Acid 2 Cold 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:19] Drakolithid Soul Knife attacks IronCat : *miss* : (18 + 29 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:19] Hana Haley attacks Inquisitor : *miss* : (3 + 29 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:19] Hana Haley damages Inquisitor: 180 (137 Physical 8 Electrical 35 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:20] IronCat attacks Mind Flayer Savant : *miss* : (12 + 21 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:20] Mind Flayer Savant casts Horrid Wilting
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:21] Drakolithid Soul Knife attacks IronCat : *miss* : (17 + 24 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:21] IronCat : Fortitude Save : *success* : (9 + 38 = 47 vs. DC: 21)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:21] Hana Haley attacks Inquisitor : *hit* : (17 + 44 = 61)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:21] Hana Haley damages Inquisitor: 38 (26 Physical 5 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:22] Mind Flayer Savant damages IronCat: 46 (46 Negative Energy)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:23] Jeera attacks Mind Flayer Savant : *hit* : (6 + 33 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:23] IronCat attacks Mind Flayer Savant : *hit* : (17 + 31 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:23] Jeera attacks Mind Flayer Savant : *hit* : (17 + 28 = 45 : Threat Roll: 3 + 28 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:23] Jeera damages Mind Flayer Savant: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:23] Drakolithid Soul Knife uses cone attack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:23] IronCat : Will Save : *success* : (10 + 38 = 48 vs. DC: 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] IronCat damages Mind Flayer Savant: 27 (16 Physical 5 Acid 2 Cold 4 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] IronCat killed Mind Flayer Savant
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] Experience Points Gained:  118
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] Inquisitor damages Hana Haley: 4 (4 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] *Thrust/Reach Attack!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] Hana Haley attacks Inquisitor : *hit* : (4 + 44 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:24] Hana Haley attacks Inquisitor : *hit* : (9 + 39 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:25] Hana Haley damages Inquisitor: 32 (22 Physical 2 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:25] Hana Haley damages Inquisitor: 36 (28 Physical 2 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:26] Hana Haley attacks Inquisitor : *hit* : (14 + 32 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:27] Hana Haley attacks Inquisitor : *hit* : (16 + 27 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:27] Hana Haley damages Inquisitor: 32 (22 Physical 5 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:27] Hana Haley damages Inquisitor: 38 (26 Physical 5 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:28] Hana Haley attacks Inquisitor : *hit* : (11 + 44 = 55)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:29] IronCat uses Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:29] Hana Haley damages Inquisitor: 39 (26 Physical 3 Electrical 10 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:29] Lost Item: Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Drakolithid Soul Knife attacks IronCat : *hit* : (11 + 37 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Drakolithid Soul Knife attacks IronCat : *miss* : (11 + 32 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] IronCat : Healed 104 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Drakolithid Soul Knife : [Shout] 7
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Drakolithid Soul Knife damages IronCat: 18 (18 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Drakolithid Soul Knife damages IronCat: 19 (16 Physical 3 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Hana Haley attacks Inquisitor : *hit* : (15 + 44 = 59)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Hana Haley attacks Inquisitor : *hit* : (4 + 39 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:30] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:31] Hana Haley damages Inquisitor: 36 (24 Physical 3 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:31] Hana Haley damages Inquisitor: 43 (28 Physical 4 Electrical 11 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:31] IronCat: This is so boring. Let's go find some action.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:33] Drakolithid Soul Knife attacks IronCat : *miss* : (10 + 27 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:34] Drakolithid Soul Knife attacks IronCat : *target concealed: 40%* : (8 + 22 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:35] Drakolithid Soul Knife attacks IronCat : *miss* : (5 + 37 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:35] Hana Haley sings.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:36] IronCat : [Party] guys seriusly
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:36] Drakolithid Soul Knife attacks IronCat : *miss* : (3 + 32 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:37] Inquisitor uses tentacle attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:37] Extract brain successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:37] Drakolithid Soul Knife attacks IronCat : *miss* : (17 + 27 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:37] Hana Haley attacks Drakolithid Soul Knife : *miss* : (1 + 49 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:37] Hana Haley attacks Drakolithid Soul Knife : *hit* : (13 + 44 = 57)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] IronCat attacks Drakolithid Soul Knife : *hit* : (15 + 31 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] IronCat attacks Drakolithid Soul Knife : *miss* : (9 + 26 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] Hana Haley damages Drakolithid Soul Knife: 43 (32 Physical 2 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] IronCat damages Drakolithid Soul Knife: 34 (20 Physical 10 Acid 1 Cold 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] Inquisitor damages Jeera: 156 (156 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] IronCat : Will Save : *success* : (10 + 29 = 39 vs. DC: 13)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] *Dying!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:38] Someone damages Jeera: 1 (1 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:39] Drakolithid Soul Knife attacks IronCat : *miss* : (4 + 22 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:39] Hana Haley attacks Drakolithid Soul Knife : *hit* : (7 + 39 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:39] Hana Haley attacks Drakolithid Soul Knife : *miss* : (9 + 34 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:40] Hana Haley damages Drakolithid Soul Knife: 40 (33 Physical 5 Electrical 2 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:40] IronCat attacks Drakolithid Soul Knife : *miss* : (17 + 21 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:41] Drakolithid Soul Knife attacks IronCat : *miss* : (6 + 37 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:42] Hana Haley attacks Drakolithid Soul Knife : *hit* : (16 + 49 = 65)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:42] Drakolithid Soul Knife attacks IronCat : *miss* : (19 + 32 = 51)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:42] Hana Haley damages Drakolithid Soul Knife: 37 (33 Physical 1 Electrical 3 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:42] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:43] IronCat attacks Drakolithid Soul Knife : *miss* : (1 + 31 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:43] Hana Haley attacks Drakolithid Soul Knife : *hit* : (3 + 49 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:43] Hana Haley attacks Drakolithid Soul Knife : *hit* : (6 + 44 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:44] Hana Haley damages Drakolithid Soul Knife: 42 (32 Physical 1 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:44] Hana Haley damages Drakolithid Soul Knife: 43 (33 Physical 4 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:44] Drakolithid Soul Knife attacks IronCat : *miss* : (15 + 27 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:44] IronCat : [Party] no heals left
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:44] *Dying!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:44] Someone damages Jeera: 1 (1 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:45] IronCat attacks Drakolithid Soul Knife : *miss* : (12 + 31 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:45] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:45] IronCat : Will Save vs. Mind Spells : *success* : (8 + 42 = 50 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:45] IronCat attacks Drakolithid Soul Knife : *hit* : (19 + 26 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:46] Hana Haley attacks Drakolithid Soul Knife : *hit* : (13 + 39 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:46] Hana Haley attacks Drakolithid Soul Knife : *miss* : (4 + 34 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:46] IronCat damages Drakolithid Soul Knife: 29 (15 Physical 10 Acid 2 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:46] Hana Haley damages Drakolithid Soul Knife: 37 (32 Physical 1 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:46] Drakolithid Soul Knife attacks IronCat : *miss* : (15 + 22 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:47] Drakolithid Soul Knife attacks IronCat : *miss* : (4 + 37 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:48] Hana Haley attacks Drakolithid Soul Knife : *hit* : (9 + 49 = 58)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:48] Drakolithid Soul Knife attacks IronCat : *miss* : (11 + 32 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:48] Hana Haley damages Drakolithid Soul Knife: 47 (35 Physical 6 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:48] Hana Haley killed Drakolithid Soul Knife
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:48] Experience Points Gained:  132
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:50] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:50] Inquisitor: HP>6000
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:50] *Dying!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:50] Someone damages Jeera: 1 (1 Magical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:51] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:51] IronCat : Will Save : *success* : (9 + 42 = 51 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:54] Hana Haley attacks Inquisitor : *hit* : (15 + 47 = 62)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:54] Hana Haley attacks Inquisitor : *critical hit* : (18 + 42 = 60 : Threat Roll: 18 + 42 = 60)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:54] Hana Haley damages Inquisitor: 41 (28 Physical 4 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:54] Hana Haley damages Inquisitor: 201 (158 Physical 16 Electrical 27 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:55] IronCat uses Wand of Cure III
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:55] Spellcraft skill: 35 + 13 vs DC 20
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:55] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:55] Jeera : Healed 28 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:56] Hana Haley attacks Inquisitor : *hit* : (6 + 37 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:56] Hana Haley attacks Inquisitor : *hit* : (10 + 32 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:56] Hana Haley damages Inquisitor: 44 (29 Physical 6 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:56] Hana Haley damages Inquisitor: 43 (29 Physical 6 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:58] Hana Haley attacks Inquisitor : *hit* : (5 + 49 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:58] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:53:58] Hana Haley damages Inquisitor: 42 (31 Physical 5 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:00] Hana Haley attacks Inquisitor : *critical hit* : (18 + 47 = 65 : Threat Roll: 19 + 47 = 66)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:00] Hana Haley attacks Inquisitor : *hit* : (6 + 42 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:00] Hana Haley damages Inquisitor: 202 (156 Physical 13 Electrical 33 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:00] Hana Haley damages Inquisitor: 38 (26 Physical 5 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:01] IronCat uses Wand of Cure III
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:01] Spellcraft skill: 35 + 20 vs DC 20
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:01] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:01] Jeera : Healed 31 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:02] Hana Haley: [Party] give her heals
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:02] Hana Haley attacks Inquisitor : *hit* : (11 + 39 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:02] Hana Haley attacks Inquisitor : *miss* : (3 + 34 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:02] Hana Haley damages Inquisitor: 42 (28 Physical 5 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:05] Jeera attacks Inquisitor : *hit* : (16 + 33 = 49 : Threat Roll: 2 + 33 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:05] Jeera attacks Inquisitor : *miss* : (8 + 28 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:05] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:05] Jeera damages Inquisitor: 11 (11 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:06] Hana Haley: You'll follow me, won't you?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:07] IronCat uses Wand of Cure III
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:07] Spellcraft skill: 35 + 17 vs DC 20
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:07] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:07] Jeera : Healed 36 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:07] Sneak Attack : Jeera attacks Inquisitor : *miss* : (6 + 23 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:11] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:11] IronCat : Will Save : *success* : (9 + 42 = 51 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:16] IronCat uses Greater Restoration
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:16] Lost Item: Greater Restoration
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:16] Psionic Attack
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:19] Inquisitor uses psionic ability.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:19] IronCat : Will Save vs. Mind Spells : *failure* : (1 + 42 = 43 vs. DC: 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:19] IronCat : Immune to Stun.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:19] IronCat : Initiative Roll : 3 : (3 + 0 = 3)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:22] Hana Haley: That.. is so... frustrating!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:26] IronCat casting Greater Restoration
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:28] IronCat casts Greater Restoration
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:29] IronCat : [Party] last restore
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:36] Hana Haley: [Party] kill boss here
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:44] Hana Haley attacks Inquisitor : *hit* : (5 + 42 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:45] Hana Haley attacks Inquisitor : *hit* : (16 + 37 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:45] Hana Haley damages Inquisitor: 40 (27 Physical 4 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:45] Hana Haley damages Inquisitor: 40 (27 Physical 4 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:46] Acquired Item: Swamp Fort Key
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:46] You did not earn this item! Reasons: 1) You are not within 8 levels of your highest team member 2) More then 4 players contributed to the boss fight 3) You did not provide team support or contribute to the boss fight from start/spawn to finish/death 4) You did not rest since your last boss fight 
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:46] Lost Item: Swamp Fort Key
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:46] Hana Haley attacks Inquisitor : *hit* : (14 + 32 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:47] Hana Haley attacks Inquisitor : *hit* : (17 + 27 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:47] Hana Haley damages Inquisitor: 37 (24 Physical 5 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:47] Hana Haley damages Inquisitor: 39 (26 Physical 5 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:48] Hana Haley attacks Inquisitor : *hit* : (11 + 42 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:49] Hana Haley damages Inquisitor: 35 (26 Physical 5 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:50] Hana Haley attacks Inquisitor : *critical hit* : (19 + 42 = 61 : Threat Roll: 18 + 42 = 60)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:51] Hana Haley attacks Inquisitor : *hit* : (10 + 37 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:51] Hana Haley damages Inquisitor: 197 (143 Physical 14 Electrical 40 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:51] Hana Haley damages Inquisitor: 33 (26 Physical 1 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:52] Jeera : [Party] i crashed so no spells songs div fets
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:52] Hana Haley attacks Inquisitor : *hit* : (5 + 32 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:53] Hana Haley attacks Inquisitor : *hit* : (5 + 27 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:53] Hana Haley damages Inquisitor: 34 (27 Physical 2 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:53] Hana Haley damages Inquisitor: 37 (25 Physical 6 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:54] Hana Haley: [Party] you got key?
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:54] Inquisitor: *Summons Minions*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:54] Hana Haley attacks Inquisitor : *hit* : (14 + 42 = 56)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:55] Hana Haley damages Inquisitor: 36 (25 Physical 6 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:56] IronCat uses Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:56] Hana Haley attacks Mind Flayer Psi-Mage : *critical hit* : (18 + 42 = 60 : Threat Roll: 4 + 42 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:57] IronCat : [Party] nah
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:57] Hana Haley attacks Mind Flayer Psi-Mage : *hit* : (8 + 37 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:57] Hana Haley damages Mind Flayer Psi-Mage: 202 (141 Physical 18 Electrical 43 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:57] Hana Haley damages Mind Flayer Psi-Mage: 39 (27 Physical 6 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:57] Hana Haley killed Mind Flayer Psi-Mage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:57] Experience Points Gained:  132
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:59] Hana Haley attacks Inquisitor : *hit* : (11 + 32 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:59] Hana Haley damages Inquisitor: 36 (25 Physical 5 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:54:59] Mind Flayer Psi-Mage attacks Jeera : *miss* : (19 + 19 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:01] Attack Of Opportunity : Mind Flayer Psi-Mage attacks Jeera : *miss* : (11 + 19 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:02] Hana Haley attacks Mind Flayer Psi-Mage : *hit* : (16 + 44 = 60)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:02] Hana Haley attacks Mind Flayer Psi-Mage : *hit* : (16 + 39 = 55)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:02] Hana Haley damages Mind Flayer Psi-Mage: 40 (28 Physical 5 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:02] Hana Haley damages Mind Flayer Psi-Mage: 42 (31 Physical 1 Electrical 10 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:02] Mind Flayer Psi-Mage attacks Jeera : *miss* : (13 + 9 = 22)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:17] IronCat casting Resurrection
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:18] IronCat casts Resurrection
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:18] Tomar : Healed 223 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:22] Attack Of Opportunity : Inquisitor attacks Jeera : *miss* : (12 + 30 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:24] IronCat uses Barkskin
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:24] Spellcraft skill: 33 + 11 vs DC 27
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:24] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:24] Lost Item: Barkskin
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:33] IronCat uses Displacement
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:39] Inquisitor damages Hana Haley: 18 (18 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:40] Hana Haley attempts Ki Damage on Inquisitor : *critical hit* : (19 + 32 = 51 : Threat Roll: 12 + 32 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:40] Jeera attacks Inquisitor : *miss* : (18 + 18 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:40] Hana Haley attacks Inquisitor : *miss* : (4 + 27 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:40] Hana Haley damages Inquisitor: 195 (140 Physical 17 Electrical 38 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:41] Inquisitor attacks Hana Haley : *miss* : (16 + 20 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:42] Jeera attacks Inquisitor : *critical hit* : (19 + 33 = 52 : Threat Roll: 19 + 33 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:42] Jeera attacks Inquisitor : *critical hit* : (12 + 28 = 40 : Threat Roll: 19 + 28 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:42] Hana Haley attempts Ki Damage on Inquisitor : *hit* : (14 + 42 = 56)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:42] Jeera damages Inquisitor: 30 (30 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:42] Jeera damages Inquisitor: 25 (25 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:43] Hana Haley damages Inquisitor: 37 (28 Physical 2 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:43] IronCat : [Party] 4 mass origs left
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:43] Hana Haley attempts Ki Damage on Inquisitor : *hit* : (3 + 42 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:43] Hana Haley attacks Inquisitor : *hit* : (4 + 37 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:43] Hana Haley damages Inquisitor: 36 (28 Physical 2 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:44] Hana Haley damages Inquisitor: 42 (27 Physical 6 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:44] Jeera attacks Inquisitor : *miss* : (12 + 23 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:45] Inquisitor attacks Hana Haley : *miss* : (2 + 30 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:45] IronCat : Initiative Roll : 17 : (17 + 0 = 17)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:45] IronCat attacks Inquisitor : *hit* : (14 + 28 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:45] IronCat attacks Inquisitor : *miss* : (3 + 23 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:46] IronCat damages Inquisitor: 20 (9 Physical 6 Acid 4 Cold 1 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:46] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:46] Hana Haley attempts Ki Damage on Inquisitor : *critical hit* : (20 + 32 = 52 : Threat Roll: 19 + 32 = 51)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:46] Jeera attacks Inquisitor : *miss* : (18 + 18 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:46] Hana Haley attacks Inquisitor : *miss* : (3 + 27 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:46] Hana Haley damages Inquisitor: 202 (143 Physical 16 Electrical 43 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:47] Inquisitor attacks Hana Haley : *miss* : (13 + 25 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:48] Hana Haley attacks Inquisitor : *critical hit* : (20 + 42 = 62 : Threat Roll: 19 + 42 = 61)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:48] Jeera attacks Inquisitor : *miss* : (4 + 33 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:48] Jeera attacks Inquisitor : *miss* : (6 + 28 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:48] Hana Haley damages Inquisitor: 195 (142 Physical 21 Electrical 32 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:48] Inquisitor attacks Hana Haley : *miss* : (6 + 30 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:49] Hana Haley attacks Inquisitor : *hit* : (12 + 42 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] IronCat attacks Inquisitor : *hit* : (11 + 28 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] IronCat attacks Inquisitor : *hit* : (19 + 23 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] Hana Haley attacks Inquisitor : *hit* : (11 + 37 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] Hana Haley damages Inquisitor: 35 (22 Physical 6 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] IronCat damages Inquisitor: 20 (7 Physical 9 Acid 2 Cold 2 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] IronCat damages Inquisitor: 19 (12 Physical 2 Acid 2 Cold 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] Hana Haley damages Inquisitor: 41 (26 Physical 5 Electrical 10 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:50] Jeera attacks Inquisitor : *miss* : (7 + 23 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:51] Inquisitor attacks Hana Haley : *miss* : (16 + 25 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:52] Jeera attacks Inquisitor : *miss* : (6 + 18 = 24)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:52] Hana Haley attacks Inquisitor : *hit* : (15 + 32 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:52] Hana Haley attacks Inquisitor : *miss* : (9 + 27 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:53] Hana Haley damages Inquisitor: 37 (28 Physical 1 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:53] Inquisitor attacks Hana Haley : *miss* : (16 + 20 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:54] Jeera attacks Inquisitor : *hit* : (7 + 33 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:54] Jeera attacks Inquisitor : *hit* : (10 + 28 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:54] Hana Haley attacks Inquisitor : *hit* : (13 + 42 = 55)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:54] Jeera damages Inquisitor: 15 (15 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:54] Jeera damages Inquisitor: 13 (13 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:54] Hana Haley damages Inquisitor: 36 (26 Physical 4 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:55] Inquisitor attacks Hana Haley : *miss* : (1 + 30 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:56] Hana Haley attacks Inquisitor : *miss* : (1 + 42 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:56] Jeera attacks Inquisitor : *miss* : (5 + 23 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:57] Hana Haley attacks Inquisitor : *hit* : (15 + 37 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:57] Hana Haley damages Inquisitor: 32 (22 Physical 1 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:58] Inquisitor attacks Hana Haley : *miss* : (8 + 25 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:58] IronCat uses Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:58] Jeera attacks Inquisitor : *miss* : (8 + 18 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:59] Hana Haley attacks Inquisitor : *hit* : (14 + 32 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:59] Hana Haley : Healed 105 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:59] IronCat : Healed 77 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:55:59] Jeera : Healed 105 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Hana Haley attacks Inquisitor : *miss* : (6 + 27 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Hana Haley damages Inquisitor: 33 (26 Physical 4 Electrical 3 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Jeera attacks Inquisitor : *critical hit* : (20 + 33 = 53 : Threat Roll: 7 + 33 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Jeera attacks Inquisitor : *critical hit* : (16 + 28 = 44 : Threat Roll: 19 + 28 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Inquisitor attacks Hana Haley : *miss* : (7 + 20 = 27)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Jeera damages Inquisitor: 30 (30 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:00] Jeera damages Inquisitor: 35 (35 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:01] IronCat attacks Inquisitor : *hit* : (18 + 28 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:01] Jeera: Thank you so very much.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:02] Hana Haley attacks Inquisitor : *hit* : (11 + 42 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:02] IronCat attacks Inquisitor : *miss* : (12 + 23 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:02] IronCat damages Inquisitor: 20 (10 Physical 4 Acid 1 Cold 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:02] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:02] Hana Haley damages Inquisitor: 37 (27 Physical 2 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:02] Jeera attacks Inquisitor : *miss* : (6 + 23 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:03] Hana Haley attacks Inquisitor : *hit* : (4 + 42 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:03] Hana Haley attacks Inquisitor : *hit* : (5 + 37 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:03] Hana Haley damages Inquisitor: 32 (25 Physical 3 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:04] Hana Haley damages Inquisitor: 31 (23 Physical 1 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:04] IronCat attacks Inquisitor : *miss* : (1 + 18 = 19)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:04] Inquisitor attacks Hana Haley : *hit* : (16 + 30 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:04] Jeera attacks Inquisitor : *miss* : (2 + 18 = 20)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:04] Inquisitor damages Hana Haley: 11 (11 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:05] Hana Haley attacks Inquisitor : *miss* : (3 + 32 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:05] Hana Haley attacks Inquisitor : *hit* : (12 + 27 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:06] IronCat attacks Inquisitor : *miss* : (8 + 28 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:06] Hana Haley damages Inquisitor: 33 (23 Physical 6 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:06] Inquisitor attacks Hana Haley : *miss* : (5 + 25 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:06] Jeera attacks Inquisitor : *hit* : (14 + 33 = 47 : Threat Roll: 2 + 33 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:06] Jeera attacks Inquisitor : *hit* : (10 + 28 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:07] Jeera damages Inquisitor: 12 (12 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:07] Jeera damages Inquisitor: 11 (11 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:07] Inquisitor attacks Hana Haley : *miss* : (9 + 20 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:07] IronCat attacks Inquisitor : *miss* : (2 + 28 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:07] IronCat attacks Inquisitor : *miss* : (8 + 23 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:08] IronCat : [Party] +2 spells haha
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:08] Inquisitor attacks Hana Haley : *miss* : (3 + 30 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:08] Jeera attacks Inquisitor : *miss* : (9 + 23 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:09] Hana Haley attacks Inquisitor : *hit* : (6 + 42 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:09] Hana Haley damages Inquisitor: 37 (24 Physical 6 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:10] IronCat attacks Inquisitor : *miss* : (5 + 18 = 23)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:10] Hana Haley attacks Inquisitor : *miss* : (1 + 42 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:10] Jeera attacks Inquisitor : *miss* : (5 + 18 = 23)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:11] Hana Haley attacks Inquisitor : *hit* : (16 + 37 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:11] Hana Haley damages Inquisitor: 38 (25 Physical 2 Electrical 11 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:11] Inquisitor attacks Hana Haley : *hit* : (16 + 25 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:12] IronCat attacks Inquisitor : *miss* : (3 + 28 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:12] Inquisitor damages Hana Haley: 11 (11 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:12] Jeera attacks Inquisitor : *critical hit* : (17 + 33 = 50 : Threat Roll: 13 + 33 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:12] Jeera attacks Inquisitor : *miss* : (7 + 28 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:13] Jeera damages Inquisitor: 27 (27 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:13] Inquisitor attacks Hana Haley : *miss* : (5 + 20 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:13] IronCat: Thank you so very much.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:13] IronCat attacks Inquisitor : *miss* : (6 + 28 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:13] IronCat attacks Inquisitor : *miss* : (1 + 23 = 24)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:14] Attack Of Opportunity : Inquisitor attacks Jeera : *miss* : (11 + 30 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:14] Hana Haley attacks Inquisitor : *hit* : (20 + 34 = 54 : Threat Roll: 1 + 34 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:14] Hana Haley damages Inquisitor: 35 (26 Physical 1 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:15] Inquisitor: HP>2000
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:15] Inquisitor attacks Hana Haley : *miss* : (2 + 30 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:15] Jeera attacks Inquisitor : *miss* : (1 + 23 = 24)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Hana Haley attacks Inquisitor : *hit* : (12 + 27 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Acquired Item: Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Acquired Item: Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Acquired Item: Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Barter was Successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Trade Rate: 55%= 1307, 65%= 1545, 75%= 1782, 85%= 2020, 95%= 2258, 100%= 2377.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] .
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Barter was Successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Trade Rate: 55%= 1307, 65%= 1545, 75%= 1782, 85%= 2020, 95%= 2258, 100%= 2377.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] .
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Barter was Successful!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Trade Rate: 55%= 1307, 65%= 1545, 75%= 1782, 85%= 2020, 95%= 2258, 100%= 2377.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] .
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] IronCat attacks Inquisitor : *miss* : (16 + 18 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:16] Hana Haley damages Inquisitor: 37 (27 Physical 5 Electrical 5 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:17] Jeera attacks Inquisitor : *miss* : (14 + 18 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:17] Hana Haley attacks Inquisitor : *hit* : (11 + 42 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:17] Hana Haley attacks Inquisitor : *hit* : (6 + 37 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:17] Hana Haley damages Inquisitor: 38 (26 Physical 5 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:17] Hana Haley damages Inquisitor: 43 (26 Physical 6 Electrical 11 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:18] IronCat attacks Inquisitor : *miss* : (2 + 28 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:18] Jeera attacks Inquisitor : *critical hit* : (14 + 33 = 47 : Threat Roll: 14 + 33 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:18] Jeera attacks Inquisitor : *critical hit* : (19 + 28 = 47 : Threat Roll: 11 + 28 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:19] Inquisitor attacks Hana Haley : *miss* : (13 + 25 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:19] Jeera damages Inquisitor: 29 (29 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:19] Jeera damages Inquisitor: 30 (30 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:20] IronCat attacks Inquisitor : *hit* : (13 + 28 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:20] Hana Haley attacks Inquisitor : *hit* : (15 + 32 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:20] IronCat attacks Inquisitor : *miss* : (11 + 23 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:20] IronCat damages Inquisitor: 22 (11 Physical 5 Acid 2 Cold 4 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:20] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:20] Hana Haley damages Inquisitor: 35 (23 Physical 6 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:21] Tomar uses Mass Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:21] Jeera attacks Inquisitor : *miss* : (2 + 23 = 25)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:21] Inquisitor attacks Hana Haley : *miss* : (1 + 20 = 21)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:22] IronCat attacks Inquisitor : *miss* : (10 + 18 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:23] Jeera attacks Inquisitor : *miss* : (18 + 18 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:23] Inquisitor attacks Hana Haley : *miss* : (5 + 30 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:23] Hana Haley sings.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:24] IronCat : Tumble : *success* : (18 + 6 = 24 vs. DC: 15)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:24] Inquisitor attacks Hana Haley : *miss* : (3 + 25 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:24] Jeera attacks Inquisitor : *hit* : (9 + 38 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:24] Jeera attacks Inquisitor : *miss* : (4 + 33 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:25] Jeera damages Inquisitor: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:26] Hana Haley attacks Inquisitor : *critical hit* : (18 + 47 = 65 : Threat Roll: 16 + 47 = 63)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:26] Hana Haley attacks Inquisitor : *critical hit* : (18 + 42 = 60 : Threat Roll: 6 + 42 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:26] Hana Haley damages Inquisitor: 207 (158 Physical 17 Electrical 32 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:27] Hana Haley damages Inquisitor: 208 (157 Physical 16 Electrical 35 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:27] Inquisitor attacks Hana Haley : *miss* : (14 + 20 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:27] IronCat uses Divine Favor
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:27] Spellcraft skill: 35 + 2 vs DC 27
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:27] *Magical Item Usage: Successful*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:28] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:28] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:28] Inquisitor attacks Hana Haley : *miss* : (15 + 30 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:29] Hana Haley attacks Inquisitor : *hit* : (6 + 37 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:30] Sneak Attack : Tomar attacks Inquisitor : *hit* : (20 + 25 = 45 : Threat Roll: 6 + 25 = 31)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:30] Hana Haley attacks Inquisitor : *hit* : (7 + 32 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:30] Hana Haley damages Inquisitor: 35 (27 Physical 4 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:30] Tomar damages Inquisitor: 23 (13 Physical 4 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:30] Hana Haley damages Inquisitor: 43 (29 Physical 6 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:31] Hana Haley attacks Inquisitor : *hit* : (14 + 47 = 61)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:31] Jeera uses Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:31] Hana Haley damages Inquisitor: 42 (30 Physical 5 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:32] Sneak Attack : Tomar attacks Inquisitor : *hit* : (18 + 20 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:32] Inquisitor attacks Hana Haley : *miss* : (15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:32] IronCat casts Divine Might
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:32] Tomar damages Inquisitor: 23 (13 Physical 1 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:33] Hana Haley attacks Inquisitor : *hit* : (10 + 47 = 57)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:33] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:33] *Equipment Swap!*
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:33] Hana Haley attacks Inquisitor : *critical hit* : (19 + 42 = 61 : Threat Roll: 8 + 42 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:33] Hana Haley damages Inquisitor: 43 (28 Physical 3 Electrical 12 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:34] Hana Haley damages Inquisitor: 224 (160 Physical 19 Electrical 45 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:34] Sneak Attack : Tomar attacks Inquisitor : *hit* : (15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:34] Inquisitor attacks Hana Haley : *miss* : (2 + 20 = 22)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:34] Tomar damages Inquisitor: 35 (18 Physical 9 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:34] IronCat attacks Inquisitor : *miss* : (15 + 18 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:34] IronCat attacks Inquisitor : *miss* : (15 + 13 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:35] Jeera attacks Inquisitor : *critical hit* : (13 + 38 = 51 : Threat Roll: 2 + 38 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:35] Jeera attacks Inquisitor : *miss* : (2 + 33 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:35] Jeera damages Inquisitor: 37 (37 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:35] Inquisitor attacks Hana Haley : *miss* : (12 + 30 = 42)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:36] Sneak Attack : Tomar attacks Inquisitor : *hit* : (16 + 25 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:36] Tomar damages Inquisitor: 30 (17 Physical 7 Electrical 6 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:36] Hana Haley attacks Inquisitor : *miss* : (1 + 37 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:37] Hana Haley attacks Inquisitor : *miss* : (5 + 32 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:37] IronCat attacks Inquisitor : *miss* : (1 + 28 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:37] Jeera attacks Inquisitor : *miss* : (2 + 28 = 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:37] Jeera attacks Inquisitor : *hit* : (18 + 23 = 41 : Threat Roll: 5 + 23 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:37] Jeera damages Inquisitor: 20 (20 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:38] Sneak Attack : Tomar attacks Inquisitor : *miss* : (4 + 20 = 24)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:38] Hana Haley attacks Inquisitor : *hit* : (2 + 47 = 49)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:38] Hana Haley damages Inquisitor: 36 (26 Physical 3 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:38] IronCat attacks Inquisitor : *miss* : (1 + 38 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] IronCat : [Party] think he is out so
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Jeera attacks Inquisitor : *hit* : (6 + 38 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Hana Haley attacks Inquisitor : *critical hit* : (18 + 47 = 65 : Threat Roll: 5 + 47 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Hana Haley attacks Inquisitor : *hit* : (11 + 42 = 53)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Jeera damages Inquisitor: 18 (18 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Hana Haley damages Inquisitor: 39 (28 Physical 4 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Hana Haley damages Inquisitor: 200 (152 Physical 17 Electrical 31 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:39] Inquisitor attacks Hana Haley : *miss* : (3 + 25 = 28)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:40] Sneak Attack : Tomar attacks Inquisitor : *critical hit* : (20 + 25 = 45 : Threat Roll: 14 + 25 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:40] Tomar damages Inquisitor: 40 (27 Physical 2 Electrical 11 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:40] IronCat : [Party] we look good
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:40] Inquisitor attacks Hana Haley : *miss* : (6 + 20 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:40] IronCat attacks Inquisitor : *hit* : (19 + 38 = 57)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:40] IronCat attacks Inquisitor : *hit* : (15 + 33 = 48)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] Jeera attacks Inquisitor : *hit* : (6 + 38 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] Jeera attacks Inquisitor : *miss* : (1 + 33 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] IronCat damages Inquisitor: 32 (15 Physical 3 Acid 1 Cold 8 Divine 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] IronCat damages Inquisitor: 36 (17 Physical 4 Acid 3 Cold 8 Divine 4 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] Jeera damages Inquisitor: 17 (17 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:41] Inquisitor attacks Hana Haley : *miss* : (16 + 30 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:42] Sneak Attack : Tomar attacks Inquisitor : *hit* : (15 + 25 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:42] Tomar damages Inquisitor: 34 (21 Physical 4 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:43] Hana Haley attacks Inquisitor : *miss* : (1 + 37 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:43] IronCat attacks Inquisitor : *miss* : (5 + 28 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:43] Jeera attacks Inquisitor : *miss* : (6 + 28 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:43] Jeera attacks Inquisitor : *miss* : (11 + 23 = 34)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:43] Hana Haley attacks Inquisitor : *hit* : (9 + 32 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:43] Hana Haley damages Inquisitor: 41 (30 Physical 3 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:44] Sneak Attack : Tomar attacks Inquisitor : *miss* : (15 + 20 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:44] Hana Haley attacks Inquisitor : *hit* : (8 + 47 = 55)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:44] Hana Haley damages Inquisitor: 43 (28 Physical 5 Electrical 10 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:45] IronCat attacks Inquisitor : *hit* : (9 + 38 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:45] Jeera attacks Inquisitor : *critical hit* : (16 + 38 = 54 : Threat Roll: 12 + 38 = 50)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:45] Inquisitor attacks Hana Haley : *miss* : (10 + 25 = 35)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:45] IronCat damages Inquisitor: 43 (16 Physical 9 Acid 4 Cold 8 Divine 6 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:45] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:45] Jeera damages Inquisitor: 41 (41 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:46] Sneak Attack : Tomar attacks Inquisitor : *miss* : (4 + 25 = 29)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:46] Hana Haley attacks Inquisitor : *critical hit* : (19 + 47 = 66 : Threat Roll: 20 + 47 = 67)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:46] Hana Haley attacks Inquisitor : *hit* : (5 + 42 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:46] Hana Haley damages Inquisitor: 207 (156 Physical 17 Electrical 34 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:46] IronCat attacks Inquisitor : *hit* : (6 + 38 = 44)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:46] IronCat attacks Inquisitor : *hit* : (8 + 33 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Jeera attacks Inquisitor : *critical hit* : (19 + 38 = 57 : Threat Roll: 3 + 38 = 41)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Jeera attacks Inquisitor : *critical hit* : (19 + 33 = 52 : Threat Roll: 10 + 33 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Hana Haley damages Inquisitor: 42 (28 Physical 4 Electrical 10 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] IronCat damages Inquisitor: 38 (16 Physical 9 Acid 2 Cold 8 Divine 3 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] IronCat damages Inquisitor: 42 (22 Physical 9 Acid 2 Cold 8 Divine 1 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Jeera damages Inquisitor: 39 (39 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Jeera damages Inquisitor: 36 (36 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:47] Inquisitor attacks Hana Haley : *miss* : (16 + 20 = 36)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:48] Sneak Attack : Tomar attacks Inquisitor : *hit* : (14 + 25 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:48] Tomar damages Inquisitor: 31 (15 Physical 6 Electrical 10 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:48] Inquisitor attacks Hana Haley : *miss* : (9 + 30 = 39)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:49] IronCat attacks Inquisitor : *hit* : (15 + 28 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:49] Jeera attacks Inquisitor : *miss* : (9 + 28 = 37)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:49] Jeera attacks Inquisitor : *miss* : (10 + 23 = 33)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:49] IronCat damages Inquisitor: 36 (16 Physical 6 Acid 1 Cold 8 Divine 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:49] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:49] Hana Haley attacks Inquisitor : *hit* : (15 + 37 = 52)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:50] Sneak Attack : Tomar attacks Inquisitor : *miss* : (12 + 20 = 32)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:50] Hana Haley attacks Inquisitor : *hit* : (8 + 32 = 40)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:50] Hana Haley damages Inquisitor: 37 (29 Physical 4 Electrical 4 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:50] Hana Haley damages Inquisitor: 39 (26 Physical 6 Electrical 7 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] IronCat attacks Inquisitor : *hit* : (13 + 38 = 51)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] Jeera attacks Inquisitor : *hit* : (7 + 38 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] Hana Haley attacks Inquisitor : *hit* : (2 + 47 = 49)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] IronCat damages Inquisitor: 32 (15 Physical 5 Acid 3 Cold 8 Divine 1 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] Jeera damages Inquisitor: 18 (18 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:51] Hana Haley damages Inquisitor: 41 (26 Physical 6 Electrical 9 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:52] Inquisitor attacks Hana Haley : *miss* : (13 + 25 = 38)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:52] Sneak Attack : Tomar attacks Inquisitor : *miss* : (1 + 25 = 26)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:52] Hana Haley attacks Inquisitor : *hit* : (16 + 47 = 63)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:52] Hana Haley attacks Inquisitor : *critical hit* : (18 + 42 = 60 : Threat Roll: 5 + 42 = 47)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:52] IronCat attacks Inquisitor : *critical hit* : (20 + 38 = 58 : Threat Roll: 16 + 38 = 54)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:52] IronCat attacks Inquisitor : *hit* : (10 + 33 = 43)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Hana Haley damages Inquisitor: 209 (161 Physical 17 Electrical 31 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Hana Haley damages Inquisitor: 41 (29 Physical 4 Electrical 8 Fire)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Jeera attacks Inquisitor : *hit* : (8 + 38 = 46)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] IronCat damages Inquisitor: 39 (20 Physical 3 Acid 3 Cold 8 Divine 5 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] IronCat damages Inquisitor: 85 (42 Physical 13 Acid 6 Cold 16 Divine 8 Sonic)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Inquisitor : Damage Reduction absorbs 3 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Jeera attacks Inquisitor : *critical hit* : (15 + 33 = 48 : Threat Roll: 12 + 33 = 45)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Jeera damages Inquisitor: 15 (15 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Jeera damages Inquisitor: 37 (37 Physical)
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Jeera killed Inquisitor
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:53] Experience Points Gained:  500
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:55] IronCat: Oh ho, I like that!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:57] Hana Haley: Oh ho, I like that!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:56:57] Jeera: Oh ho, I like that!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:01] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:04] Chance to find a bonus item (Search): 12%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:05] Acquired 679GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:05] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:15] Jeera : [Party] shoo hectic close
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:18] Tomar: Yeah, all right!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:21] Jeera: Oh ho, I like that!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:31] Acquired Item: Swamp Fort Key
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:34] Armor/Shield Applies: Skill Armor Check Penalty: -8 Arcane Spell Failure: 45%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:34] Warning: Unequipping an item with a constitution bonus can kill you if you have low hitpoints.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:34] Armor/Shield Applies: Skill Armor Check Penalty: 0 Arcane Spell Failure: 0%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:37] IronCat casting Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:39] Green Fire
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:39] IronCat casts Haste
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:39] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 15%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:39] You have multiple items equipped or spell effects active that give an Armor AC bonus and the effects will not stack.
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:39] Armor/Shield Applies: Skill Armor Check Penalty: -10 Arcane Spell Failure: 60%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:42] Chance to find a bonus item (Search): 11%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:44] Acquired Item: Superior Dart of Fear
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:44] Superior Dart of Fear
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:45] Master's Dart of Darkness
+[CHAT WINDOW TEXT] [Fri Sep 25 22:57:48] IronCat: That.. is so... frustrating!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:00] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:01] Acquired 1600GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:01] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:03] Chance to find a bonus item (Search): 14%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:04] IronCat : [Party] this was crazy
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:06] Acquired 2440GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:06] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:13] Chance to find a bonus item (Search): 7%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:14] Acquired Item: Dagger
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:14] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:17] Chance to find a bonus item (Search): 21%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:19] Acquired Item: Greater Vampire Bullet
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:19] Greater Vampire Bullet
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:21] Chance to find a bonus item (Search): 15%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:21] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:22] Acquired 1737GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:22] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:23] Chance to find a bonus item (Search): 14%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:24] Acquired 1487GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:24] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:25] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:26] Acquired 1772GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:26] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:27] Wand of Negative Energy
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:28] Chance to find a bonus item (Search): 8%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:29] Acquired 496GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:29] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:29] Chance to find a bonus item (Search): 14%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:30] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:30] Ray of Frost
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:31] Acquired Item: Endurance
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:31] Endurance
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:33] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:33] Spike Growth
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:35] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:35] Chance to find a bonus item (Search): 16%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:35] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:36] Acquired 1914GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:36] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:36] Acquired Item: Charm Person
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:36] Charm Person
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:37] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:38] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:39] Acquired Item: Blade Barrier
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:39] Blade Barrier
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:40] Chance to find a bonus item (Search): 13%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:41] Charged Arrow
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:41] Acquired 45GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:41] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:43] Chance to find a bonus item (Search): 18%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:44] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:44] Acquired 1234GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:44] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:46] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:49] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:52] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:55] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:55] Deafening Clang
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:57] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:58] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:58] Chance to find a bonus item (Search): 19%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:58:59] Cloud of Bewilderment
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:00] Acquired Item: Ring
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:00] Ring
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:00] Chance to find a bonus item (Search): 14%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:01] Acquired 731GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:01] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:02] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:03] Chance to find a bonus item (Search): 19%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:03] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:04] Acquired 2447GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:04] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:06] Chance to find a bonus item (Search): 15%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:06] Acquired 2520GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:06] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:07] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:07] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:07] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:08] Chance to find a bonus item (Search): 23%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:09] Acquired Item: Greater Vampire Arrow
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:09] Greater Vampire Arrow
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:10] Epic Dart of Confusion
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:11] Chance to find a bonus item (Search): 13%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:12] Acquired 122GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:12] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:13] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:14] Chance to find a bonus item (Search): 16%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:15] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:15] Acquired 1795GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:15] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:16] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:17] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:17] Chance to find a bonus item (Search): 8%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:17] Ring
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:18] Acquired 1408GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:18] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:18] Unique Staff
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:20] Chance to find a bonus item (Search): 10%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:20] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:21] Acquired 1342GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:21] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:23] Chance to find a bonus item (Search): 20%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:24] Acquired Item: Greataxe
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:24] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:25] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:26] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:26] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:27] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:28] Acquired Item: Uncooked Huge Meat Slab
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:28] Uncooked Huge Meat Slab
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:30] Chance to find a bonus item (Search): 5%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:31] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:31] Acquired 1669GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:31] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:33] Chance to find a bonus item (Search): 5%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:34] Hana Haley: [Party] Wuash would be poud of us
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:34] Acquired 360GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:34] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:35] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:38] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:38] Chance to find a bonus item (Search): 8%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:39] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:39] Acquired 1845GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:39] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:41] Chance to find a bonus item (Search): 20%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:42] Acquired 641GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:42] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:44] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:44] Chance to find a bonus item (Search): 22%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:45] Superior Dart of Weakening
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:45] Acquired 837GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:45] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:45] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:47] Sonic Bolt
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:48] Chance to find a bonus item (Search): 18%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:49] Acquired 1222GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:49] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:50] Chance to find a bonus item (Search): 21%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:50] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:52] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:55] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:56] Acquired 1376GP
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:56] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:56] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:57] Owl's Wisdom
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:58] Chance to find a bonus item (Search): 17%
+[CHAT WINDOW TEXT] [Fri Sep 25 22:59:59] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:00] Acquired Item: Frost Bullet
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:00] Frost Bullet
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:00] Negative Energy Burst
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:02] Chance to find a bonus item (Search): 5%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:03] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:03] Acquired Item: Boots of Dexterity
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:03] Boots of Dexterity
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:04] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:06] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:06] Acquired 407GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:06] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:09] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:10] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:10] Acquired Item: Greater Charged Arrow
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:10] Greater Charged Arrow
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:11] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:13] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:14] Acquired 511GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:14] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:15] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:16] Chance to find a bonus item (Search): 7%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:17] Acquired 749GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:17] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:21] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:21] Stone to Flesh
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:24] Chance to find a bonus item (Search): 6%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:24] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:24] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:25] Acquired 2295GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:25] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:27] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:27] Chance to find a bonus item (Search): 21%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:28] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:28] Acquired 425GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:28] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:30] Chance to find a bonus item (Search): 16%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:31] Protection from Alignment
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:31] Acquired Item: Protection from Elements
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:31] Protection from Elements
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:31] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:34] Remove Disease
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:41] Acquired 2457GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:41] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:43] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:43] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:44] Acquired 274GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:44] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:48] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:48] Acquired Item: Handaxe
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:48] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:50] Mighty Heavy Crossbow + 4
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:53] Acquired Item: Uncooked Talapia
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:53] Uncooked Talapia
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:56] Unidentified Item
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:56] Chance to find a bonus item (Search): 6%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:57] Acquired 823GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:57] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:00:59] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:02] Chance to find a bonus item (Search): 19%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:02] You found a bonus item or bonus gold!
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:03] Acquired 1278GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:03] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:06] Acquired Item: Dart of Fear
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:06] Dart of Fear
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:13] IronCat : [Party] wont have gold to recraft still i guess 
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:18] Warning: Unequipping an item with a constitution bonus can kill you if you have low hitpoints.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:18] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 15%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:19] Armor/Shield Applies: Skill Armor Check Penalty: 0 Arcane Spell Failure: 0%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:22] IronCat casting Identify
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:24] IronCat casts Identify
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:33] IronCat casting Identify
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:35] IronCat casts Identify
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:40] You have multiple items equipped or spell effects active that give an Armor AC bonus and the effects will not stack.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:40] Armor/Shield Applies: Skill Armor Check Penalty: -8 Arcane Spell Failure: 45%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:45] Armor/Shield Applies: Skill Armor Check Penalty: -10 Arcane Spell Failure: 60%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:54] Hana Haley: Oh ho, I like that!
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:56] Chance to find a bonus item (Search): 24%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:57] Acquired Item: Energy Buffer
+[CHAT WINDOW TEXT] [Fri Sep 25 23:01:57] Energy Buffer
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:15] Warning: Unequipping an item with a constitution bonus can kill you if you have low hitpoints.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:15] Armor/Shield Applies: Skill Armor Check Penalty: -2 Arcane Spell Failure: 15%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:18] IronCat casting Identify
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:20] Spell failed due to arcane spell failure!
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:20] Hana Haley: [Party] how much space you got there Jeera?
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:23] You have multiple items equipped or spell effects active that give an Armor AC bonus and the effects will not stack.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:23] Armor/Shield Applies: Skill Armor Check Penalty: -10 Arcane Spell Failure: 60%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:28] Jeera : [Party] lots
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:34] Equipped item swapped out.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:48] Acquired 23308GP
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:48] Gold
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:49] Acquired Item: Incendiary Cloud
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:49] Incendiary Cloud
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:51] Acquired Item: Stinking Cloud
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:51] Stinking Cloud
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:56] Cooked Huge Meat Slab
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:57] You triggered a Trap!
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:57] IronCat : Fortitude Save vs. Traps : *success* : (9 + 24 = 33 vs. DC: 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:57] IronCat : Damage Resistance absorbs 15 damage
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:57] Godly Chest damages IronCat: 59 (59 Acid)
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:57] Chance to find a bonus item (Search): 11%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:59] Acquired Item: Nature's Balance
+[CHAT WINDOW TEXT] [Fri Sep 25 23:02:59] Nature's Balance
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:00] Myla has left as a player..
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:04] Hana Haley: [Party] take loot
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:06] You triggered a Trap!
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:06] IronCat : Reflex Save vs. Traps : *failure* : (6 + 11 = 17 vs. DC: 30)
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:06] Godly Chest damages IronCat: 164 (164 Electrical)
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:06] Chance to find a bonus item (Search): 14%
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:08] Acquired Item: Buzz Longsword
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:08] Buzz Longsword
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:10] IronCat casting Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:12] IronCat casts Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:13] IronCat : Healed 113 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:16] IronCat casting Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:18] IronCat casts Mass Heal
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:19] IronCat : Healed 110 hit points.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:20] Hana Haley: [Party] one of the most epic MF's I've had
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:26] IronCat : [Party] u all got key?
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:29] IronCat : [Party] still left here
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:33] IronCat : [Party] maybe we got 2x4 lol
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:45] IronCat uses item's special power.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:48] Area CR: 1
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:48] [Server] You are now in a No PVP area.
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:52] IronCat : [Party] yea, this fight ugh...
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:54] IronCat : [Party] dry on supplier
+[CHAT WINDOW TEXT] [Fri Sep 25 23:03:59] IronCat : [Party] supplies
+[CHAT WINDOW TEXT] [Fri Sep 25 23:04:05] IronCat : [Party] no restore no healing
+[CHAT WINDOW TEXT] [Fri Sep 25 23:04:15] IronCat : [Party] used spells even
+[CHAT WINDOW TEXT] [Fri Sep 25 23:04:25] IronCat : [Party] was fun and good job, bb all, gotta run
