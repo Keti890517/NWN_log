@@ -67,7 +67,7 @@ def damage_data(input_file):
 
 def construct_df(list_input, cols, dtypes, sort_cols, opt_assign=None):
     if opt_assign:
-        df = pd.DataFrame(data=list_input).assign(a=opt_assign[0], b=opt_assign[1]) #REWORK THIS
+        df = pd.DataFrame(data=list_input).assign(**opt_assign)
     else:
         df = pd.DataFrame(data=list_input)
     df.columns = cols
@@ -93,7 +93,7 @@ def generate_damage_table(txt_or_folder):
 
                     end_list = damage_data(text_file) # Call functions create dataset & create DF
                     damage_df = damage_df.append(construct_df(end_list, ['damager', 'damaged', 'damage_done', 'date',
-                        'quest'], {'damage_done':'int', 'date':'datetime64'}, ['quest', 'damage_done'], (date, quest)))    
+                        'quest'], {'damage_done':'int', 'date':'datetime64'}, ['quest', 'damage_done'], {'a':date, 'b':quest}))    
                     
     else: # If not a folder, meaning if standalone txt was picked
         if txt_or_folder.endswith(".txt"):
