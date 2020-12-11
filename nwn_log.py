@@ -2,11 +2,8 @@ import os
 import pandas as pd
 import re
 import tkinter as tk
-from tkinter import Tk
-from tkinter import font
-from tkinter import filedialog
+from tkinter import Tk, font, filedialog
 from PIL import ImageTk, Image
-import PIL
 from datetime import datetime
 
 
@@ -26,9 +23,7 @@ def xp_per_rest(input_file):
     pattern_xp_gained = r'Experience Points Gained\:\s\s(\d{1,4})'
     pattern_bonus_xp = r'Bonus Experience\:\s(\d{1,4})'
     pattern_rest = r'Done resting\.'
-
-    xp_list = []
-    final_list = []
+    xp_list, final_list = [], []
 
     with open(input_file, 'r') as text_file:
         for line in text_file.readlines():
@@ -45,22 +40,21 @@ def xp_per_rest(input_file):
     return print('XP per rest cycle:\n'+final_list+'\n') # Output them in new line with title added
 
 
-def damage_data(input_file):
+def damage_data(input_file): # Construct 3-element lists (damager, damaged, damage) and build list of lists
     pattern_damager = r'\]\s.*?\]\s(.*)\sdamages'
     pattern_damaged = r'damages\s(.*)\:'
     pattern_damage_done = r'\:\s(\d{1,3})\s\('
 
-# Construct 3-element lists (damager, damaged, damage) and add to list of lists
-    end_list = []
-    for line in input_file.readlines():
-        if 'damages' in line:
-            end_list.append(
+    if input_file.endswith('.txt'):
+        with open(input_file, 'r') as text_file:
+            end_list = [
                 [
                     re.search(pattern_damager, line).group(1),
                     re.search(pattern_damaged, line).group(1),
                     re.search(pattern_damage_done, line).group(1)
                 ]
-            )
+                for line in text_file.readlines() if 'damages' in line
+            ] 
 
     return end_list
 
@@ -79,27 +73,23 @@ def construct_df(list_input, cols, dtypes, sort_cols, opt_assign=None):
 
 def generate_damage_table(txt_or_folder):
     global damage_df # To utilize DF later on for ad-hoc checks
-    if os.path.isdir(txt_or_folder): #process in loop with 2 extra fields added to DF if a folder is picked
-    	damage_df = pd.DataFrame()
-    	for file in os.listdir(txt_or_folder):
-            if file.endswith(".txt"):
-                with open(txt_or_folder+'/'+file, 'r') as text_file:
-                    try:
-                        date = re.search(r'(\d{8})', file).group(1) # yyyymmdd format at start of filename
-                        quest = re.search(r'\_(.*)\.txt', file).group(1) # From end of filename, following '_'
-                    except AttributeError:
-                        date = datetime.now().strftime("%Y%m%d")
-                        quest = 'N/A'
-
-                    end_list = damage_data(text_file) # Call functions create dataset & create DF
-                    damage_df = damage_df.append(construct_df(end_list, ['damager', 'damaged', 'damage_done', 'date',
-                        'quest'], {'damage_done':'int', 'date':'datetime64'}, ['quest', 'damage_done'], {'a':date, 'b':quest}))    
+    if os.path.isdir(txt_or_folder): # Process in loop with 2 extra fields added to DF if a folder is picked
+        damage_df = pd.DataFrame()
+        for file in os.listdir(txt_or_folder):
+            try:
+                date = re.search(r'(\d{8})', file).group(1) # yyyymmdd format at start of filename
+                quest = re.search(r'\_(.*)\.txt', file).group(1) # From end of filename, following '_'
+            except AttributeError:
+                date = datetime.now().strftime("%Y%m%d")
+                quest = 'N/A'
+                
+            end_list = damage_data(txt_or_folder+'/'+file) # Call functions create dataset & create DF
+            damage_df = damage_df.append(construct_df(end_list, ['damager', 'damaged', 'damage_done', 'date',
+                'quest'], {'damage_done':'int', 'date':'datetime64'}, ['quest', 'damage_done'], {'a':date, 'b':quest}))    
                     
     else: # If not a folder, meaning if standalone txt was picked
-        if txt_or_folder.endswith(".txt"):
-            with open(txt_or_folder, 'r') as text_file:
-                end_list = damage_data(text_file) # Call function to create dataset, then another for df
-                damage_df = construct_df(end_list, ['damager', 'damaged', 'damage_done'], {'damage_done':'int'}, 'damage_done')
+        end_list = damage_data(txt_or_folder) # Call function to create dataset, then another for df
+        damage_df = construct_df(end_list, ['damager', 'damaged', 'damage_done'], {'damage_done':'int'}, 'damage_done')
 
     if len(end_list) != 0: # Save to excel if the list was not empty, meaning wrong txt was used
         timestamp = datetime.now().strftime("%Y.%m.%d_%H%M%S")
@@ -170,4 +160,3 @@ C.pack()
 
 if __name__ == '__main__':
     app.mainloop()
-
