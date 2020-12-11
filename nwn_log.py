@@ -93,24 +93,15 @@ def generate_damage_table(txt_or_folder):
 
     if len(end_list) != 0: # Save to excel if the list was not empty, meaning wrong txt was used
         timestamp = datetime.now().strftime("%Y.%m.%d_%H%M%S")
-        damage_df.to_excel(r'./output_files/output_'+timestamp+'.xls', index=False)
+        writer = pd.ExcelWriter(r'./output_files/output_'+timestamp+'.xls')
+        damage_df.to_excel(writer, index=False)
+        damage_df.groupby(['damager']).sum().sort_values('damage_done', ascending=False).to_excel(writer, startcol=6)
+        writer.save()
 
     return damage_df
 
 
-# Functions for the buttons to pick a folder or a txt file
-
-def get_txt():
-    filename = filedialog.askopenfilename()
-    return filename
-
-
-def get_folder():
-    folder = filedialog.askdirectory(title='Select Folder')
-    return folder
-
-
-# Tkinter UI
+# Creating UI with tkinter
 
 app = tk.Tk()
 
@@ -133,10 +124,10 @@ frame = tk.Frame(app,  bg='#FCF3CF', bd=5)
 frame.place(relx=0.5, rely=0.025, relwidth=0.3, relheight=0.1, anchor='n')
 
 get_file_btn = tk.Button(frame, text='Get Txt', font=font.Font(size=10), fg='#FCF3CF', bg='#AF601A', 
-                                                        command=lambda: generate_damage_table(get_txt()))
+                                                        command=lambda: generate_damage_table(filedialog.askopenfilename()))
 get_file_btn.place(relx=0.1, relheight=1, relwidth=0.35)
 get_folder_btn = tk.Button(frame, text='Get Folder', font=font.Font(size=10), fg='#FCF3CF', bg='#AF601A', 
-                                                        command=lambda: generate_damage_table(get_folder()))
+                                                        command=lambda: generate_damage_table(filedialog.askdirectory(title='Select Folder')))
 get_folder_btn.place(relx=0.55, relheight=1, relwidth=0.35)
 
 lower_frame = tk.Frame(app, bg='#641E16', bd=3)
